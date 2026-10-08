@@ -1,0 +1,8 @@
+2026/09/17-13:45:04.839 1ae4 Recovering log #30
+2026/09/17-13:45:04.852 1ae4 Level-0 table #33: started
+2026/09/17-13:45:04.894 1ae4 Level-0 table #33: 17795 bytes OK
+2026/09/17-13:45:04.964 1ae4 Delete type=0 #30
+2026/09/17-13:45:04.964 1ae4 Delete type=3 #28
+2026/09/17-15:36:06.299 1ae4 Level-0 table #36: started
+2026/09/17-15:36:06.314 1ae4 Level-0 table #36: 15684 bytes OK
+2026/09/17-15:36:06.328 1ae4 Delete type=0 #34

@@ -1,0 +1,183 @@
+// Prisma Schema for IPTV Management and Automated Renewal System
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+enum Role {
+  ADMIN
+  CUSTOMER
+}
+
+enum CustomerStatus {
+  ACTIVE
+  EXPIRING
+  EXPIRED
+  TEST
+  SUSPENDED
+}
+
+enum PaymentStatus {
+  PENDING
+  APPROVED
+  REJECTED
+  CANCELLED
+  EXPIRED
+  PROCESSING
+  RENEWING
+  RENEWED
+  FAILED
+}
+
+enum JobStatus {
+  WAITING
+  PROCESSING
+  SUCCESS
+  FAILED
+}
+
+enum LogLevel {
+  INFO
+  SUCCESS
+  WARN
+  ERROR
+}
+
+model User {
+  id        String    @id @default(uuid())
+  name      String
+  email     String    @unique
+  password  String
+  role      Role      @default(CUSTOMER)
+  customer  Customer?
+  createdAt DateTime  @default(now()) @map("created_at")
+  updatedAt DateTime  @updatedAt @map("updated_at")
+
+  @@map("users")
+}
+
+model Customer {
+  id             String         @id @default(uuid())
+  userId         String?        @unique @map("user_id")
+  user           User?          @relation(fields: [userId], references: [id], onDelete: SetNull)
+  name           String
+  phone          String
+  email          String
+  iptvUsername   String         @unique @map("iptv_username")
+  iptvPassword   String?        @map("iptv_password")
+  iptvUrl        String?        @map("iptv_url")
+  notes          String?
+  status         CustomerStatus @default(ACTIVE)
+  expirationDate DateTime       @map("expiration_date")
+  planId         String?        @map("plan_id")
+  plan           Plan?          @relation(fields: [planId], references: [id], onDelete: SetNull)
+  
+  subscriptions  Subscription[]
+  payments       Payment[]
+  automationJobs AutomationJob[]
+  
+  createdAt      DateTime       @default(now()) @map("created_at")
+  updatedAt      DateTime       @updatedAt @map("updated_at")
+
+  @@index([iptvUsername])
+  @@index([status])
+  @@index([expirationDate])
+  @@map("customers")
+}
+
+model Plan {
+  id           String         @id @default(uuid())
+  name         String
+  description  String?
+  price        Decimal        @db.Decimal(10, 2)
+  days         Int
+  active       Boolean        @default(true)
+  displayOrder Int            @default(0) @map("display_order")
+  
+  customers     Customer[]
+  subscriptions Subscription[]
+  payments      Payment[]
+  
+  createdAt    DateTime       @default(now()) @map("created_at")
+  updatedAt    DateTime       @updatedAt @map("updated_at")
+
+  @@map("plans")
+}
+
+model Subscription {
+  id             String    @id @default(uuid())
+  customerId     String    @map("customer_id")
+  customer       Customer  @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  planId         String    @map("plan_id")
+  plan           Plan      @relation(fields: [planId], references: [id], onDelete: Restrict)
+  startDate      DateTime  @default(now()) @map("start_date")
+  expirationDate DateTime  @map("expiration_date")
+  status         String    @default("ACTIVE")
+  createdAt      DateTime  @default(now()) @map("created_at")
+  updatedAt      DateTime  @updatedAt @map("updated_at")
+
+  @@map("subscriptions")
+}
+
+model Payment {
+  id                   String         @id @default(uuid())
+  customerId           String         @map("customer_id")
+  customer             Customer       @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  planId               String         @map("plan_id")
+  plan                 Plan           @relation(fields: [planId], references: [id], onDelete: Restrict)
+  amount               Decimal        @db.Decimal(10, 2)
+  status               PaymentStatus  @default(PENDING)
+  paymentMethod        String         @map("payment_method")
+  mercadoPagoPaymentId String?        @unique @map("mercado_pago_payment_id")
+  externalReference    String?        @unique @map("external_reference")
+  approvedAt           DateTime?      @map("approved_at")
+  errorMessage         String?        @map("error_message")
+  
+  automationJobs       AutomationJob[]
+  
+  createdAt            DateTime       @default(now()) @map("created_at")
+  updatedAt            DateTime       @updatedAt @map("updated_at")
+
+  @@index([status])
+  @@index([externalReference])
+  @@map("payments")
+}
+
+model AutomationJob {
+  id           String          @id @default(uuid())
+  customerId   String          @map("customer_id")
+  customer     Customer        @relation(fields: [customerId], references: [id], onDelete: Cascade)
+  paymentId    String?         @map("payment_id")
+  payment      Payment?        @relation(fields: [paymentId], references: [id], onDelete: SetNull)
+  action       String          @default("RENEW_30")
+  days         Int             @default(30)
+  status       JobStatus       @default(WAITING)
+  attempts     Int             @default(0)
+  errorMessage String?         @map("error_message")
+  startedAt    DateTime?       @map("started_at")
+  finishedAt   DateTime?       @map("finished_at")
+  
+  logs         AutomationLog[]
+  
+  createdAt    DateTime        @default(now()) @map("created_at")
+  updatedAt    DateTime        @updatedAt @map("updated_at")
+
+  @@index([status])
+  @@map("automation_jobs")
+}
+
+model AutomationLog {
+  id        String        @id @default(uuid())
+  jobId     String?       @map("job_id")
+  job       AutomationJob? @relation(fields: [jobId], references: [id], onDelete: Cascade)
+  level     LogLevel      @default(INFO)
+  message   String
+  createdAt DateTime      @default(now()) @map("created_at")
+
+  @@index([jobId])
+  @@map("automation_logs")
+}

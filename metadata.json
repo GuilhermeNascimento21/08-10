@@ -1,0 +1,6 @@
+{
+  "name": "Painel de Gestão IPTV",
+  "description": "Sistema completo de gestão de clientes IPTV, renovação automática PIX via Mercado Pago e automação com Playwright.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

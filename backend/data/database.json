@@ -1,0 +1,3888 @@
+{
+  "users": [
+    {
+      "id": "usr-admin-1",
+      "name": "Administrador Master",
+      "email": "admin@painel.com",
+      "role": "ADMIN",
+      "createdAt": "2026-07-02T17:28:03.315Z",
+      "updatedAt": "2026-08-31T17:28:03.316Z"
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-mthksnbs-mv0",
+      "name": "Tio belo",
+      "phone": "",
+      "email": "693111954@painel.com",
+      "iptvUsername": "693111954",
+      "iptvPassword": "M354V4489G",
+      "portalPassword": "M354V4489G",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "04/10/2026 08:11:32",
+      "trialUsed": false,
+      "notes": "Tio belo",
+      "createdAt": "2026-08-31T18:32:31.768Z",
+      "updatedAt": "2026-09-17T19:57:42.699Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mthksnby-of2",
+      "name": "LEANDRO 2 ADAO",
+      "phone": "",
+      "email": "901680678@painel.com",
+      "iptvUsername": "901680678",
+      "iptvPassword": "s202m5993F",
+      "portalPassword": "s202m5993F",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "30/10/2026 19:36:31",
+      "trialUsed": false,
+      "notes": "LEANDRO 2 ADAO",
+      "createdAt": "2026-08-31T18:32:31.774Z",
+      "updatedAt": "2026-09-17T19:57:42.519Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mthksnc3-tsp",
+      "name": "MILENA",
+      "phone": "47996368008",
+      "email": "440288383@painel.com",
+      "iptvUsername": "440288383",
+      "iptvPassword": "q214v1333y",
+      "portalPassword": "q214v1333y",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "EXPIRING",
+      "expirationDate": "21/09/2026 19:19:09",
+      "trialUsed": false,
+      "notes": "MILENA",
+      "createdAt": "2026-08-31T18:32:31.779Z",
+      "updatedAt": "2026-09-17T19:57:42.714Z"
+    },
+    {
+      "id": "cust-mthksnc8-m5a",
+      "name": "MARCELO QUARTO",
+      "phone": "47997225952",
+      "email": "824903813@painel.com",
+      "iptvUsername": "824903813",
+      "iptvPassword": "y325y4070H",
+      "portalPassword": "y325y4070H",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 21:39:57",
+      "trialUsed": true,
+      "trialCreatedAt": "2026-08-31T18:35:56.786Z",
+      "trialAccessId": "acc-mthkx1ir-f6xw",
+      "notes": "MARCELO QUARTO",
+      "createdAt": "2026-08-31T18:32:31.784Z",
+      "updatedAt": "2026-09-17T19:57:42.557Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mthksncf-i25",
+      "name": "Leandro Adão 1",
+      "phone": "",
+      "email": "632804260@painel.com",
+      "iptvUsername": "632804260",
+      "iptvPassword": "b333s1972p",
+      "portalPassword": "b333s1972p",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 06:52:33",
+      "trialUsed": false,
+      "notes": "Leandro Adão 1",
+      "createdAt": "2026-08-31T18:32:31.791Z",
+      "updatedAt": "2026-09-17T19:57:42.576Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mthksncp-8er",
+      "name": "EVA ADAO",
+      "phone": "",
+      "email": "622564138@painel.com",
+      "iptvUsername": "622564138",
+      "iptvPassword": "p664u1338c",
+      "portalPassword": "p664u1338c",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 01:19:50",
+      "trialUsed": false,
+      "notes": "EVA ADAO",
+      "createdAt": "2026-08-31T18:32:31.801Z",
+      "updatedAt": "2026-09-17T19:57:42.590Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mthksncw-yk2",
+      "name": "ADAO",
+      "phone": "",
+      "email": "90400618@painel.com",
+      "iptvUsername": "90400618",
+      "iptvPassword": "f916W1881f",
+      "portalPassword": "f916W1881f",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 01:17:53",
+      "trialUsed": false,
+      "notes": "ADAO",
+      "createdAt": "2026-08-31T18:32:31.808Z",
+      "updatedAt": "2026-09-17T19:57:42.627Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mthksnd0-f4m",
+      "name": "GISELE ADAO",
+      "phone": "",
+      "email": "178206486@painel.com",
+      "iptvUsername": "178206486",
+      "iptvPassword": "s429y2977d",
+      "portalPassword": "s429y2977d",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 01:17:00",
+      "trialUsed": false,
+      "notes": "GISELE ADAO",
+      "createdAt": "2026-08-31T18:32:31.812Z",
+      "updatedAt": "2026-09-17T19:57:42.643Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mthksnd5-c3o",
+      "name": "GUILHERME NASCIMENTO",
+      "phone": "47997878209",
+      "email": "185753042@painel.com",
+      "iptvUsername": "185753042",
+      "iptvPassword": "u215B5394s",
+      "portalPassword": "u215B5394s",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "09/10/2026 21:19:20",
+      "trialUsed": true,
+      "notes": "GUILHERME NASCIMENTO",
+      "createdAt": "2026-08-31T18:32:31.817Z",
+      "updatedAt": "2026-09-17T19:57:42.657Z",
+      "trialCreatedAt": "2026-09-13T23:32:11.715Z",
+      "trialAccessId": "acc-mu0g83er-nt08",
+      "customPrice": 2
+    },
+    {
+      "id": "cust-mthksnda-jgl",
+      "name": "teste",
+      "phone": "",
+      "email": "869333829@painel.iptv",
+      "iptvUsername": "869333829",
+      "iptvPassword": "D243V9199b",
+      "portalPassword": "D243V9199b",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "DELETED",
+      "expirationDate": "31/08/2026 09:57:05",
+      "trialUsed": false,
+      "notes": "teste",
+      "createdAt": "2026-08-31T18:32:31.822Z",
+      "updatedAt": "2026-08-31T18:33:28.990Z",
+      "deletionStatus": "DELETED",
+      "deletedAt": "2026-08-31T18:33:28.990Z",
+      "deletedBy": "ADMIN",
+      "deletionSummary": "Todos os acessos IPTV foram excluídos com sucesso do painel."
+    },
+    {
+      "id": "cust-mthksndg-eji",
+      "name": "SOGRA",
+      "phone": "",
+      "email": "213087442@painel.com",
+      "iptvUsername": "213087442",
+      "iptvPassword": "d911F2928P",
+      "portalPassword": "d911F2928P",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "EXPIRED",
+      "expirationDate": "23/08/2026 00:16:42",
+      "trialUsed": false,
+      "notes": "SOGRA",
+      "createdAt": "2026-08-31T18:32:31.828Z",
+      "updatedAt": "2026-09-17T19:57:42.773Z",
+      "customPrice": 30
+    },
+    {
+      "id": "cust-mtyx6j7x-42n",
+      "name": "teste3",
+      "phone": "",
+      "email": "884172703@painel.iptv",
+      "iptvUsername": "884172703",
+      "iptvPassword": "Z132p4450c",
+      "portalPassword": "Z132p4450c",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "DELETED",
+      "expirationDate": "31/08/2026 18:14:03",
+      "trialUsed": false,
+      "notes": "teste3",
+      "createdAt": "2026-09-12T21:51:20.013Z",
+      "updatedAt": "2026-09-14T00:01:30.486Z",
+      "deletionStatus": "DELETED",
+      "deletedAt": "2026-09-14T00:01:30.486Z",
+      "deletedBy": "ADMIN",
+      "deletionSummary": "Todos os acessos IPTV foram excluídos com sucesso do painel."
+    },
+    {
+      "id": "cust-mtyx6j83-bsv",
+      "name": "teste2",
+      "phone": "",
+      "email": "564641985@painel.iptv",
+      "iptvUsername": "564641985",
+      "iptvPassword": "W128P2209t",
+      "portalPassword": "W128P2209t",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "DELETED",
+      "expirationDate": "31/08/2026 16:42:39",
+      "trialUsed": false,
+      "notes": "teste2",
+      "createdAt": "2026-09-12T21:51:20.019Z",
+      "updatedAt": "2026-09-14T00:02:42.359Z",
+      "deletionStatus": "DELETED",
+      "deletedAt": "2026-09-14T00:02:42.359Z",
+      "deletedBy": "ADMIN",
+      "deletionSummary": "Todos os acessos IPTV foram excluídos com sucesso do painel."
+    },
+    {
+      "id": "cust-mu1s1ppg-2ad",
+      "name": "valtrudes",
+      "phone": "",
+      "email": "312990021@painel.com",
+      "iptvUsername": "312990021",
+      "iptvPassword": "u247a9198r",
+      "portalPassword": "u247a9198r",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "status": "ACTIVE",
+      "expirationDate": "15/10/2026 18:52:24",
+      "trialUsed": false,
+      "notes": "valtrudes",
+      "createdAt": "2026-09-14T21:50:55.588Z",
+      "updatedAt": "2026-09-17T19:57:42.538Z"
+    }
+  ],
+  "iptvAccesses": [
+    {
+      "id": "acc-mthksnbs-uhdt",
+      "customerId": "cust-mthksnbs-mv0",
+      "customerName": "Tio belo",
+      "name": "TV Principal",
+      "iptvUsername": "693111954",
+      "iptvPassword": "M354V4489G",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "04/10/2026 08:11:32",
+      "isTrial": false,
+      "notes": "Tio belo",
+      "createdAt": "2026-08-31T18:32:31.768Z",
+      "updatedAt": "2026-09-17T19:57:42.699Z"
+    },
+    {
+      "id": "acc-mthksnby-77r0",
+      "customerId": "cust-mthksnby-of2",
+      "customerName": "LEANDRO 2 ADAO",
+      "name": "TV Principal",
+      "iptvUsername": "901680678",
+      "iptvPassword": "s202m5993F",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "30/10/2026 19:36:31",
+      "isTrial": false,
+      "notes": "LEANDRO 2 ADAO",
+      "createdAt": "2026-08-31T18:32:31.774Z",
+      "updatedAt": "2026-09-17T19:57:42.520Z"
+    },
+    {
+      "id": "acc-mthksnc3-elp8",
+      "customerId": "cust-mthksnc3-tsp",
+      "customerName": "MILENA",
+      "name": "TV Principal",
+      "iptvUsername": "440288383",
+      "iptvPassword": "q214v1333y",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "EXPIRING",
+      "expirationDate": "21/09/2026 19:19:09",
+      "isTrial": false,
+      "notes": "MILENA",
+      "createdAt": "2026-08-31T18:32:31.779Z",
+      "updatedAt": "2026-09-17T19:57:42.715Z"
+    },
+    {
+      "id": "acc-mthksnc8-ptru",
+      "customerId": "cust-mthksnc8-m5a",
+      "customerName": "MARCELO QUARTO",
+      "name": "TV Principal",
+      "iptvUsername": "824903813",
+      "iptvPassword": "y325y4070H",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 21:39:57",
+      "isTrial": false,
+      "notes": "MARCELO QUARTO",
+      "createdAt": "2026-08-31T18:32:31.784Z",
+      "updatedAt": "2026-09-17T19:57:42.557Z"
+    },
+    {
+      "id": "acc-mthksncg-0p3e",
+      "customerId": "cust-mthksncf-i25",
+      "customerName": "Leandro Adão 1",
+      "name": "TV Principal",
+      "iptvUsername": "632804260",
+      "iptvPassword": "b333s1972p",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 06:52:33",
+      "isTrial": false,
+      "notes": "Leandro Adão 1",
+      "createdAt": "2026-08-31T18:32:31.792Z",
+      "updatedAt": "2026-09-17T19:57:42.576Z"
+    },
+    {
+      "id": "acc-mthksncp-kwtl",
+      "customerId": "cust-mthksncp-8er",
+      "customerName": "EVA ADAO",
+      "name": "TV Principal",
+      "iptvUsername": "622564138",
+      "iptvPassword": "p664u1338c",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 01:19:50",
+      "isTrial": false,
+      "notes": "EVA ADAO",
+      "createdAt": "2026-08-31T18:32:31.801Z",
+      "updatedAt": "2026-09-17T19:57:42.590Z"
+    },
+    {
+      "id": "acc-mthksncw-u9kz",
+      "customerId": "cust-mthksncw-yk2",
+      "customerName": "ADAO",
+      "name": "TV Principal",
+      "iptvUsername": "90400618",
+      "iptvPassword": "f916W1881f",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 01:17:53",
+      "isTrial": false,
+      "notes": "ADAO",
+      "createdAt": "2026-08-31T18:32:31.808Z",
+      "updatedAt": "2026-09-17T19:57:42.627Z"
+    },
+    {
+      "id": "acc-mthksnd0-pu0q",
+      "customerId": "cust-mthksnd0-f4m",
+      "customerName": "GISELE ADAO",
+      "name": "TV Principal",
+      "iptvUsername": "178206486",
+      "iptvPassword": "s429y2977d",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "10/10/2026 01:17:00",
+      "isTrial": false,
+      "notes": "GISELE ADAO",
+      "createdAt": "2026-08-31T18:32:31.812Z",
+      "updatedAt": "2026-09-17T19:57:42.643Z"
+    },
+    {
+      "id": "acc-mthksnd5-drqo",
+      "customerId": "cust-mthksnd5-c3o",
+      "customerName": "GUILHERME NASCIMENTO",
+      "name": "TV Principal",
+      "iptvUsername": "185753042",
+      "iptvPassword": "u215B5394s",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "09/10/2026 21:19:20",
+      "isTrial": false,
+      "notes": "GUILHERME NASCIMENTO",
+      "createdAt": "2026-08-31T18:32:31.817Z",
+      "updatedAt": "2026-09-17T19:57:42.657Z"
+    },
+    {
+      "id": "acc-mthksndg-og74",
+      "customerId": "cust-mthksndg-eji",
+      "customerName": "SOGRA",
+      "name": "TV Principal",
+      "iptvUsername": "213087442",
+      "iptvPassword": "d911F2928P",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "EXPIRED",
+      "expirationDate": "23/08/2026 00:16:42",
+      "isTrial": false,
+      "notes": "SOGRA",
+      "createdAt": "2026-08-31T18:32:31.828Z",
+      "updatedAt": "2026-09-17T19:57:42.773Z"
+    },
+    {
+      "id": "acc-mu1s1ppg-20va",
+      "customerId": "cust-mu1s1ppg-2ad",
+      "customerName": "valtrudes",
+      "name": "TV Principal",
+      "iptvUsername": "312990021",
+      "iptvPassword": "u247a9198r",
+      "iptvUrl": "http://anverif.top",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "planPrice": 35,
+      "status": "ACTIVE",
+      "expirationDate": "15/10/2026 18:52:24",
+      "isTrial": false,
+      "notes": "valtrudes",
+      "createdAt": "2026-09-14T21:50:55.588Z",
+      "updatedAt": "2026-09-17T19:57:42.538Z"
+    }
+  ],
+  "plans": [
+    {
+      "id": "plan-mensal",
+      "name": "Mensal",
+      "description": "Acesso completo com canais 4K, filmes, séries e grade de esportes ao vivo.",
+      "price": 35,
+      "days": 30,
+      "active": true,
+      "displayOrder": 1,
+      "createdAt": "2026-06-02T17:28:03.315Z",
+      "updatedAt": "2026-09-09T15:40:00.000Z"
+    },
+    {
+      "id": "plan-trimestral",
+      "name": "Trimestral",
+      "description": "Melhor custo-benefício para 3 meses ininterruptos (Economize R$ 10,00).",
+      "price": 95,
+      "days": 90,
+      "active": true,
+      "displayOrder": 2,
+      "createdAt": "2026-06-02T17:28:03.315Z",
+      "updatedAt": "2026-09-09T15:40:00.000Z"
+    },
+    {
+      "id": "plan-semestral",
+      "name": "Semestral",
+      "description": "6 meses de entretenimento premium com suporte prioritário (Economize R$ 30,00).",
+      "price": 180,
+      "days": 180,
+      "active": true,
+      "displayOrder": 3,
+      "createdAt": "2026-06-02T17:28:03.315Z",
+      "updatedAt": "2026-09-09T15:40:00.000Z"
+    },
+    {
+      "id": "plan-anual",
+      "name": "Anual VIP",
+      "description": "Plano VIP Anual com suporte prioritário 24/7 e conteúdo 4K HDR (Economize R$ 100,00).",
+      "price": 320,
+      "days": 365,
+      "active": true,
+      "displayOrder": 4,
+      "createdAt": "2026-06-02T17:28:03.315Z",
+      "updatedAt": "2026-09-09T15:40:00.000Z"
+    }
+  ],
+  "subscriptions": [],
+  "payments": [
+    {
+      "id": "pay-mu1s32ly-tgs1",
+      "customerId": "cust-mu1s1ppg-2ad",
+      "customerName": "valtrudes",
+      "iptvAccessId": "acc-mu1s1ppg-20va",
+      "accessName": "TV Principal",
+      "iptvUsername": "312990021",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "amount": 35,
+      "status": "RENEWED",
+      "paymentMethod": "PIX",
+      "renewalOrderId": "ord-mu1s31cz-030d58",
+      "mercadoPagoPaymentId": "178056612791",
+      "externalReference": "RENOVACAO_mu1s31cz_6d8b61fc",
+      "idempotencyKey": "6eded476-28a6-4c60-bfb4-1011b5e7958d",
+      "pixQrCode": "00020126580014br.gov.bcb.pix0136db1b7aa1-73ed-441a-a47c-bc4b3d06c028520400005303986540535.005802BR5911SAMI23517076009Sao Paulo62250521mpqrinter1780566127916304087B",
+      "pixQrCodeBase64": "iVBORw0KGgoAAAANSUhEUgAABWQAAAVkAQMAAABpQ4TyAAAABlBMVEX///8AAABVwtN+AAAKuklEQVR42uzdQXIiuRIG4CJYsOQIHKWOBkfjKBzBSxYEetF+VEmZJWg87jbMxPdvCM8Y1VfeZaeUGkRERERERERERERERERERERERERERERERERERETk72ZTFjkOq1I+hmEs189f2f/63Nb/f/j1H3elDPPnppTTMJRyXq4//vrGR/15Xy5hsWmRHFpaWlpaWlpaWlpaWlraP6A9pZ+Pvz63VT1pD+3vZW14UF7k8xVXS3VYJL4iLS0tLS0tLS0tLS0t7ftq04NW9dGfD5h+viTtOtW6kzIscr39z7zIOtS89ZXPtLS0tLS0tLS0tLS0tP867dQ5nWrd/NmoJ+30oFv7temcljuL7GhpaWlpaWlpaWlpaWn/A9oh7bedOqiX0PQs8+eDrbPjou26vr+Jl5aWlpaWlpaWlpaWlpb2j2vTbuFOn/dTW+rn9IqntMh4p1m8byv1oS7yB/Y209LS0tLS0tLS0tLS0v6k9uHkom2qeT9/nnYJX5aTi8a7zeLHi/yZOUu0tLS0tLS0tLS0tLS0f1fbTTNkaNsucUm7hHPt25Sr4+Ksaeyg1sL5MnwztLS0tLS0tLS0tLS0tD+p3dV9t6HZObbQMLr2cSb1UrlNv3lqn3iuB1jHBzUvLS0tLS0tLS0tLS0t7Qu18ezk7fMaytb9XL6uw1ba6UBm2Id7nDuo1/qQbfvK61pA75Z3cT4ueGlpaWlpaWlpaWlpaWlpv64t9bqW0mrDRt/mgc1B1bTVeKiL5Wm9Qxp/1Pm3gqf3NtPS0tLS0tLS0tLS0tK+TBvK1bpbOG/0Xddjo7u2bO0M0S1tnzck17zrL/d5aWlpaWlpaWlpaWlpaV+lHcLvhHI1Nz33i7On66DrLh7Onna3HF9q4ZwPrtLS0tLS0tLS0tLS0tK+rzY/YCzxFpWcemz0XH+uB1c7k4uaP8EhCepVLJv096KlpaWlpaWlpaWlpaWl/Y42zFk63hacLv+sI5IutWI/pS+HnJflffi53JrGzcHV/G8FtLS0tLS0tLS0tLS0tO+vDWXpcW7JXh8+KNS+Yzut92N55jSMPzq1u4fP4dVpaWlpaWlpaWlpaWlp31Gby9Wm5g3latg9fEk3h4a2awnjj4a2cG62GB/a9mtTKD935wstLS0tLS0tLS0tLS3ty7RhlO25zr09zltlV/V46DbVvJM2jK7d1Lbrsbd5d5vOmpbFDmBaWlpaWlpaWlpaWlpa2m9rh/A7KfnYaAl93Xst2uWXP5aLHNomcemN/KWlpaWlpaWlpaWlpaV9S+2ubvBNZek1fV6W5eopFc5ht3Bpv1zqhTFDvTgmF86//ZvS0tLS0tLS0tLS0tLSvlYb+pf3dgs3N4dOD6ifTbl6bHcPb1MNvG3br9OTL+HvVgW0tLS0tLS0tLS0tLS076fdJGWng3pYPPgSHlRr32F5/ejY0zY1b+iUfmVyES0tLS0tLS0tLS0tLe1rtKeqrvqPeidnrXmndC4+GdorWDbL05v7km9TuSyr7jwGiZaWlpaWlpaWlpaWlpb229owP2hMd7xMx0frRt+Sjodu2olFU1ahMj+0D922lXk8uPr4zCktLS0tLS0tLS0tLS3ty7VV2Twwz7/Nu4ZPd8rUManrzaGr0CSuZ03jBTJ1EVpaWlpaWlpaWlpaWtr30+bmZ3xwGmWbv3S5U6aGV14F7XLubTz1+ni3MC0tLS0tLS0tLS0tLe17aLuJHdRDbx/uKY09qgdYV7dNvE3N28y/HZI69G4fhZaWlpaWlpaWlpaWlpb2ee2w6K42l3x+PuBaHxCm9Q53WrS5zxsW6Q9tCpX5+Nw9p7S0tLS0tLS0tLS0tLQ/re1MLjoutM2ln52hQ/Xg6rn3oFUtmIe02FB3C+fTr7S0tLS0tLS0tLS0tLRvql3u0e3UvNvlcdGw0Xd550vsnHZzam8O3XR3EdPS0tLS0tLS0tLS0tK+o3a4s/AD7W8etEoHVuOtKt3Nu8/cokJLS0tLS0tLS0tLS0tL+6R2SA88txt6r+mzpGOjMd1XHecLY0ro94brR8Mi5yf2NtPS0tLS0tLS0tLS0tK+Untrzc6f4c6X6cFh2NCpt9H3fCucz7XmPc4Ti67LrcadmUlT9U1LS0tLS0tLS0tLS0v7jtp784JyzduUrWHo0O72pV2686XWvM3B1SaHecvxulbbu6/tFqalpaWlpaWlpaWlpaX9ae1Qy9aaa615h9/Mv510p7To2O67bRY9LArnRrd77uZQWlpaWlpaWlpaWlpa2ldpm/m3xzsP3KcttbVMvSy141xAX1P79Vov8tzWmreufH5i/y0tLS0tLS0tLS0tLS0t7Ze00++O7Z0v4bhos9F32/Z31/VVwytvSj8fbRO5hFcOalpaWlpaWlpaWlpaWtr31TZTZ2+/O5Wr08jaVd3gO238DS3aeHFMWqSvy4uEHO+1pGlpaWlpaWlpaWlpaWlfq42pw4bCd1a1Yxq0l/srjXONm29PyU+8pJ/Pw7OhpaWlpaWlpaWlpaWl/Wlt0/QM12h+1LL1MJetl1q+TuXqKRXOYzrAmuffhltUTkNzJ2czuehIS0tLS0tLS0tLS0tLS/t9bWfQbr7rpc5ZGsK1LcuNvvdatvmsaemdOc1NY1paWlpaWlpaWlpaWtr303Z2C+dW7TS5qD4ol635EtBz/fLYjgBuXvne1N5n+ry0tLS0tLS0tLS0tLS0r9Uuhw01Z01r7Zs7p5d6TUt45ZI6p5+vuAqTi4I2qJ+c1ktLS0tLS0tLS0tLS0v7Gm2Z595Ote41fE7Zz0OHms7prm16hoOrTeE8acPkomaIbq51aWlpaWlpaWlpaWlpaWn/jLapi9ODruEMatbWrcbNzaFD75Wbs6ahaXzqbTk+09LS0tLS0tLS0tLS0v5LtOEB9ezptSpDizY+KF9DGs6chkVyzbucnTTQ0tLS0tLS0tLS0tLSvrk23/lS5nJ1lc6eDqHmrU3Pqf26SZ3TZpfw8o6XB21XWlpaWlpaWlpaWlpa2vfTlrSFdrn/dpXOhja1br5N5d7B1cP82R9/NN2i8tv5t7S0tLS0tLS0tLS0tLQv1Hb0x3nIUFPrhrK1ebVd6eTc1rpZO4T9uN0vPx1aWlpaWlpaWlpaWlpa2i+m6fMOy5tD86DdcOZ0bHcNNy3b7vWju7bv+5XKnJaWlpaWlpaWlpaWlvY12s2y6Jx2C+c9u1Ptu28flO98WZ41LamAjmdOl4uUp7vStLS0tLS0tLS0tLS0tC/Qnnqd0065um9f6XTb6Bt+DjXvNWmH7iLLmndDS0tLS0tLS0tLS0tL++ba0AQNI2u782+HdAfnpreFdpVq30779ZT234ZXpqWlpaWlpaWlpaWlpaX9C9pV7fd+PKrQ/59pRFJq0eaDq9flhTG79Iq7f1Sh09LS0tLS0tLS0tLS0r5WO1eeddjQkCYYDbXPG9S1ZTtdP9qM+g27hWOft946c/4HFTotLS0tLS0tLS0tLS3tT2rv7BZe3dnom4cOxXTn32Zt/eXmApn896KlpaWlpaWlpaWlpaV9P+1yclHef1vCbSr7eeF1ujG0KVfHkq9euYbbU2rB3FlkoKWlpaWlpaWlpaWlpaX9vlZERERERERERERERERERERERERERERERERERETkrfO/AAAA///XqwgupdsDIAAAAABJRU5ErkJggg==",
+      "pixCopyPaste": "00020126580014br.gov.bcb.pix0136db1b7aa1-73ed-441a-a47c-bc4b3d06c028520400005303986540535.005802BR5911SAMI23517076009Sao Paulo62250521mpqrinter1780566127916304087B",
+      "ticketUrl": "https://www.mercadopago.com.br/payments/178056612791/ticket?caller_id=3691418966&hash=c6b10a66-1b38-4ccf-8af8-71e8246dd16f",
+      "renewalStatus": "completed",
+      "renewalStartedAt": "2026-09-14T21:52:41.272Z",
+      "renewalCompletedAt": "2026-09-14T21:52:48.468Z",
+      "approvedAt": "2026-09-14T21:52:41.212Z",
+      "paidAt": "2026-09-14T21:52:41.212Z",
+      "createdAt": "2026-09-14T21:51:58.966Z",
+      "updatedAt": "2026-09-14T21:52:48.468Z"
+    }
+  ],
+  "renewalOrders": [
+    {
+      "id": "ord-mu1s31cz-030d58",
+      "customerId": "cust-mu1s1ppg-2ad",
+      "customerName": "valtrudes",
+      "iptvAccessId": "acc-mu1s1ppg-20va",
+      "accessName": "TV Principal",
+      "iptvUsername": "312990021",
+      "planId": "plan-mensal",
+      "planName": "Mensal",
+      "amount": 35,
+      "status": "RENEWED",
+      "externalReference": "RENOVACAO_mu1s31cz_6d8b61fc",
+      "mercadoPagoPaymentId": "178056612791",
+      "paymentId": "pay-mu1s32ly-tgs1",
+      "automationJobId": "job-mu1s3z8s-3tpj",
+      "processedAt": "2026-09-14T21:52:48.465Z",
+      "createdAt": "2026-09-14T21:51:58.958Z",
+      "updatedAt": "2026-09-14T21:52:48.465Z"
+    }
+  ],
+  "automationJobs": [
+    {
+      "id": "job-mu1s3z8s-3tpj",
+      "customerId": "cust-mu1s1ppg-2ad",
+      "customerName": "valtrudes",
+      "iptvAccessId": "acc-mu1s1ppg-20va",
+      "accessName": "TV Principal",
+      "iptvUsername": "312990021",
+      "renewalOrderId": "ord-mu1s31cz-030d58",
+      "paymentId": "pay-mu1s32ly-tgs1",
+      "planId": "plan-mensal",
+      "action": "RENEW_30",
+      "days": 30,
+      "status": "SUCCESS",
+      "attempts": 1,
+      "maxAttempts": 3,
+      "createdAt": "2026-09-14T21:52:41.260Z",
+      "updatedAt": "2026-09-14T21:52:48.462Z",
+      "startedAt": "2026-09-14T21:52:41.267Z",
+      "finishedAt": "2026-09-14T21:52:48.462Z"
+    },
+    {
+      "id": "job-mu0haf7j-g93e",
+      "customerId": "cust-mtyx6j83-bsv",
+      "customerName": "teste2",
+      "iptvAccessId": "acc-mtyx6j83-7g8y",
+      "accessName": "TV Principal",
+      "iptvUsername": "564641985",
+      "action": "DELETE_IPTV_USER",
+      "days": 30,
+      "status": "SUCCESS",
+      "attempts": 1,
+      "maxAttempts": 3,
+      "createdAt": "2026-09-14T00:01:59.935Z",
+      "updatedAt": "2026-09-14T00:02:42.365Z",
+      "startedAt": "2026-09-14T00:01:59.941Z",
+      "finishedAt": "2026-09-14T00:02:42.365Z"
+    },
+    {
+      "id": "job-mu0h8ufi-fw1n",
+      "customerId": "cust-mtyx6j7x-42n",
+      "customerName": "teste3",
+      "iptvAccessId": "acc-mtyx6j7x-p60n",
+      "accessName": "TV Principal",
+      "iptvUsername": "884172703",
+      "action": "DELETE_IPTV_USER",
+      "days": 30,
+      "status": "SUCCESS",
+      "attempts": 1,
+      "maxAttempts": 3,
+      "createdAt": "2026-09-14T00:00:46.350Z",
+      "updatedAt": "2026-09-14T00:01:30.491Z",
+      "startedAt": "2026-09-14T00:00:46.357Z",
+      "finishedAt": "2026-09-14T00:01:30.491Z"
+    },
+    {
+      "id": "job-mu0h4m2b-jaop",
+      "customerId": "cust-mthksnd5-c3o",
+      "customerName": "GUILHERME NASCIMENTO",
+      "iptvAccessId": "acc-mu0g55bv-dw3x",
+      "accessName": "sala",
+      "iptvUsername": "979157367",
+      "action": "DELETE_IPTV_USER",
+      "days": 30,
+      "status": "SUCCESS",
+      "attempts": 1,
+      "maxAttempts": 3,
+      "createdAt": "2026-09-13T23:57:28.883Z",
+      "updatedAt": "2026-09-13T23:59:49.054Z",
+      "startedAt": "2026-09-13T23:57:28.889Z",
+      "finishedAt": "2026-09-13T23:59:49.053Z"
+    },
+    {
+      "id": "job-mu0h3gnf-ffri",
+      "customerId": "cust-mthksnd5-c3o",
+      "customerName": "GUILHERME NASCIMENTO",
+      "iptvAccessId": "acc-mu0g83er-nt08",
+      "accessName": "Teste Grátis (1h)",
+      "iptvUsername": "461807391",
+      "action": "DELETE_IPTV_USER",
+      "days": 30,
+      "status": "SUCCESS",
+      "attempts": 1,
+      "maxAttempts": 3,
+      "createdAt": "2026-09-13T23:56:35.211Z",
+      "updatedAt": "2026-09-13T23:57:17.750Z",
+      "startedAt": "2026-09-13T23:56:35.217Z",
+      "finishedAt": "2026-09-13T23:57:17.750Z"
+    },
+    {
+      "id": "job-mu0h12pf-yml0",
+      "customerId": "cust-mthksnd5-c3o",
+      "customerName": "GUILHERME NASCIMENTO",
+      "iptvAccessId": "acc-mu0g83er-nt08",
+      "accessName": "Teste Grátis (1h)",
+      "iptvUsername": "461807391",
+      "action": "DELETE_IPTV_USER",
+      "days": 30,
+      "status": "FAILED",
+      "attempts": 1,
+      "maxAttempts": 3,
+      "errorMessage": "locator.click: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - waiting for locator('.swal2-popup:visible').last().locator('button.swal2-confirm:visible, button.swal2-confirm').filter({ hasText: 'Sim' }).last()\u001b[22m\n",
+      "createdAt": "2026-09-13T23:54:43.827Z",
+      "updatedAt": "2026-09-13T23:55:52.113Z",
+      "startedAt": "2026-09-13T23:54:43.833Z",
+      "finishedAt": "2026-09-13T23:55:52.113Z"
+    },
+    {
+      "id": "job-mthkt1pz-gmh2",
+      "customerId": "cust-mthksnda-jgl",
+      "customerName": "teste",
+      "iptvAccessId": "acc-mthksnda-xqyd",
+      "accessName": "TV Principal",
+      "iptvUsername": "869333829",
+      "action": "DELETE_IPTV_USER",
+      "days": 30,
+      "status": "SUCCESS",
+      "attempts": 1,
+      "maxAttempts": 3,
+      "createdAt": "2026-08-31T18:32:50.423Z",
+      "updatedAt": "2026-08-31T18:33:28.995Z",
+      "startedAt": "2026-08-31T18:32:50.426Z",
+      "finishedAt": "2026-08-31T18:33:28.995Z"
+    }
+  ],
+  "automationLogs": [
+    {
+      "id": "log-mtyx5xjs-v82j",
+      "level": "ERROR",
+      "message": "[18:50:51] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=24660\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=24660\u001b[22m\n\u001b[2m  - [pid=24660] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=24660] <kill>\u001b[22m\n\u001b[2m  - [pid=24660] <will force kill>\u001b[22m\n\u001b[2m  - [pid=24660] taskkill stderr: ERRO: o processo \"24660\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=24660] <process did exit: exitCode=2147483651, signal=null>\u001b[22m\n\u001b[2m  - [pid=24660] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=24660] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=24660] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T21:50:51.928Z"
+    },
+    {
+      "id": "log-mtyx5xjw-9ciq",
+      "level": "WARN",
+      "message": "[AUTO-SYNC] Aviso na sincronização automática do painel: Falha ao conectar com o Playwright: browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=24660\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=24660\u001b[22m\n\u001b[2m  - [pid=24660] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=24660] <kill>\u001b[22m\n\u001b[2m  - [pid=24660] <will force kill>\u001b[22m\n\u001b[2m  - [pid=24660] taskkill stderr: ERRO: o processo \"24660\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=24660] <process did exit: exitCode=2147483651, signal=null>\u001b[22m\n\u001b[2m  - [pid=24660] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=24660] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=24660] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T21:50:51.932Z"
+    },
+    {
+      "id": "log-mtyx5z6u-kf55",
+      "level": "INFO",
+      "message": "[SYNC] Sincronização manual com o painel IPTV solicitada...",
+      "timestamp": "2026-09-12T21:50:54.054Z"
+    },
+    {
+      "id": "log-mtyx5z6w-y6ee",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Iniciando sincronização com o painel IPTV...",
+      "timestamp": "2026-09-12T21:50:54.056Z"
+    },
+    {
+      "id": "log-mtyx5z6y-iseq",
+      "level": "INFO",
+      "message": "[IPTV] Navegador não está ativo. Iniciando automaticamente...",
+      "timestamp": "2026-09-12T21:50:54.058Z"
+    },
+    {
+      "id": "log-mtyx5z70-wdrq",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T21:50:54.060Z"
+    },
+    {
+      "id": "log-mtyx5z73-cgi4",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T21:50:54.063Z"
+    },
+    {
+      "id": "log-mtyx5z75-8e5j",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T21:50:54.065Z"
+    },
+    {
+      "id": "log-mtyx5z77-5paf",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T21:50:54.067Z"
+    },
+    {
+      "id": "log-mtyx5z79-ivry",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T21:50:54.069Z"
+    },
+    {
+      "id": "log-mtyx5z7b-pdrn",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T21:50:54.071Z"
+    },
+    {
+      "id": "log-mtyx5z7d-pw2s",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T21:50:54.073Z"
+    },
+    {
+      "id": "log-mtyx5zmo-zb6i",
+      "level": "SUCCESS",
+      "message": "[18:50:54] [IPTV] Navegador iniciado com sucesso",
+      "timestamp": "2026-09-12T21:50:54.624Z"
+    },
+    {
+      "id": "log-mtyx5zmq-lqr8",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Página criada",
+      "timestamp": "2026-09-12T21:50:54.626Z"
+    },
+    {
+      "id": "log-mtyx5zmu-kfww",
+      "level": "INFO",
+      "message": "[18:50:54] [IPTV] Navegando para painel IPTV: https://searchdefense.top/#/users-iptv",
+      "timestamp": "2026-09-12T21:50:54.630Z"
+    },
+    {
+      "id": "log-mtyx62oq-6k78",
+      "level": "INFO",
+      "message": "[18:50:58] [IPTV] URL atual: https://searchdefense.top/#/users-iptv",
+      "timestamp": "2026-09-12T21:50:58.586Z"
+    },
+    {
+      "id": "log-mtyx62p9-bsrf",
+      "level": "INFO",
+      "message": "[18:50:58] [IPTV] Título da página: Painel Office",
+      "timestamp": "2026-09-12T21:50:58.605Z"
+    },
+    {
+      "id": "log-mtyx63wx-x09m",
+      "level": "SUCCESS",
+      "message": "[18:51:00] [IPTV] Conexão inicial concluída",
+      "timestamp": "2026-09-12T21:51:00.177Z"
+    },
+    {
+      "id": "log-mtyx63z5-0hua",
+      "level": "INFO",
+      "message": "[IPTV] Navegando para a página de usuários: https://searchdefense.top/#/users-iptv",
+      "timestamp": "2026-09-12T21:51:00.257Z"
+    },
+    {
+      "id": "log-mtyx655q-95r5",
+      "level": "INFO",
+      "message": "[18:51:01] [IPTV] Aguardando renderização do Vue SPA (aguardando '.iptv-username' por até 30s)...",
+      "timestamp": "2026-09-12T21:51:01.790Z"
+    },
+    {
+      "id": "log-mtyx6j6b-p35l",
+      "level": "INFO",
+      "message": "[18:51:19] [IPTV] Usuários encontrados: 12",
+      "timestamp": "2026-09-12T21:51:19.955Z"
+    },
+    {
+      "id": "log-mtyx6j8h-ak5x",
+      "level": "SUCCESS",
+      "message": "[18:51:20] [IPTV] Banco local atualizado (Novos: 2, Atualizados: 10)",
+      "timestamp": "2026-09-12T21:51:20.033Z"
+    },
+    {
+      "id": "log-mtyx6j8l-ijul",
+      "level": "SUCCESS",
+      "message": "[SYNC] Sincronização finalizada! Total: 12 | Novos: 2 | Atualizados: 10",
+      "timestamp": "2026-09-12T21:51:20.037Z"
+    },
+    {
+      "id": "log-mtyx6net-d9fv",
+      "level": "INFO",
+      "message": "[SYNC] Sincronização manual com o painel IPTV solicitada...",
+      "timestamp": "2026-09-12T21:51:25.446Z"
+    },
+    {
+      "id": "log-mtyx6new-k12f",
+      "level": "INFO",
+      "message": "[18:51:25] [IPTV] Iniciando sincronização com o painel IPTV...",
+      "timestamp": "2026-09-12T21:51:25.448Z"
+    },
+    {
+      "id": "log-mtyx6nez-mi2q",
+      "level": "INFO",
+      "message": "[18:51:25] [IPTV] Aguardando renderização do Vue SPA (aguardando '.iptv-username' por até 30s)...",
+      "timestamp": "2026-09-12T21:51:25.451Z"
+    },
+    {
+      "id": "log-mtyx6oh0-tdkd",
+      "level": "INFO",
+      "message": "[18:51:26] [IPTV] Usuários encontrados: 12",
+      "timestamp": "2026-09-12T21:51:26.820Z"
+    },
+    {
+      "id": "log-mtyx6oka-96si",
+      "level": "SUCCESS",
+      "message": "[18:51:26] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 12)",
+      "timestamp": "2026-09-12T21:51:26.938Z"
+    },
+    {
+      "id": "log-mtyx6oke-o37h",
+      "level": "SUCCESS",
+      "message": "[SYNC] Sincronização finalizada! Total: 12 | Novos: 0 | Atualizados: 12",
+      "timestamp": "2026-09-12T21:51:26.942Z"
+    },
+    {
+      "id": "log-mtyx76hj-6n98",
+      "level": "INFO",
+      "message": "Configurações do sistema atualizadas.",
+      "timestamp": "2026-09-12T21:51:50.167Z"
+    },
+    {
+      "id": "log-mtyx77h4-lun3",
+      "level": "INFO",
+      "message": "Configurações do sistema atualizadas.",
+      "timestamp": "2026-09-12T21:51:51.448Z"
+    },
+    {
+      "id": "log-mtyx91uj-pvvl",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: GUILHERME NASCIMENTO",
+      "timestamp": "2026-09-12T21:53:17.467Z"
+    },
+    {
+      "id": "log-mtyxaj8u-hf9p",
+      "level": "INFO",
+      "message": "[18:54:26] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-12T21:54:26.670Z"
+    },
+    {
+      "id": "log-mtyxajb1-q1i5",
+      "level": "INFO",
+      "message": "[18:54:26] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-12T21:54:26.749Z"
+    },
+    {
+      "id": "log-mtyxajva-slq9",
+      "level": "SUCCESS",
+      "message": "[18:54:27] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-12T21:54:27.478Z"
+    },
+    {
+      "id": "log-mtyxdaxe-p399",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-12T21:56:35.858Z"
+    },
+    {
+      "id": "log-mtyxdc29-2hp5",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-12T21:56:37.329Z"
+    },
+    {
+      "id": "log-mtyxducu-2mdx",
+      "level": "INFO",
+      "message": "[18:57:01] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-12T21:57:01.038Z"
+    },
+    {
+      "id": "log-mtyxdulw-rwc8",
+      "level": "INFO",
+      "message": "[18:57:01] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-12T21:57:01.364Z"
+    },
+    {
+      "id": "log-mtyxduvm-1ivz",
+      "level": "SUCCESS",
+      "message": "[18:57:01] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-12T21:57:01.714Z"
+    },
+    {
+      "id": "log-mtyxkdmr-zp5y",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-12T22:02:05.955Z"
+    },
+    {
+      "id": "log-mtyxkerj-5td8",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-12T22:02:07.423Z"
+    },
+    {
+      "id": "log-mtyxnqha-cjy8",
+      "level": "INFO",
+      "message": "[19:04:42] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-12T22:04:42.574Z"
+    },
+    {
+      "id": "log-mtyxnqhd-sz2c",
+      "level": "INFO",
+      "message": "[19:04:42] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-12T22:04:42.577Z"
+    },
+    {
+      "id": "log-mtyxnqvo-e9cw",
+      "level": "SUCCESS",
+      "message": "[19:04:43] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-12T22:04:43.092Z"
+    },
+    {
+      "id": "log-mtyxrgcb-65ba",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-12T22:07:36.059Z"
+    },
+    {
+      "id": "log-mtyxrhib-o74i",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-12T22:07:37.571Z"
+    },
+    {
+      "id": "log-mtyy1o5p-viz0",
+      "level": "INFO",
+      "message": "[19:15:32] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-12T22:15:32.749Z"
+    },
+    {
+      "id": "log-mtyy1on5-2hln",
+      "level": "INFO",
+      "message": "[19:15:33] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-12T22:15:33.377Z"
+    },
+    {
+      "id": "log-mtyy1ow7-97kr",
+      "level": "SUCCESS",
+      "message": "[19:15:33] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-12T22:15:33.703Z"
+    },
+    {
+      "id": "log-mtyy1the-7ylk",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Inicialização do servidor)...",
+      "timestamp": "2026-09-12T22:15:39.650Z"
+    },
+    {
+      "id": "log-mtyy1tqd-421u",
+      "level": "ERROR",
+      "message": "[19:15:39] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=18920\n[pid=18920][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=18920\u001b[22m\n\u001b[2m  - [pid=18920][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=18920] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=18920] <kill>\u001b[22m\n\u001b[2m  - [pid=18920] <will force kill>\u001b[22m\n\u001b[2m  - [pid=18920] taskkill stderr: ERRO: o processo \"18920\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=18920] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=18920] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=18920] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=18920] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:15:39.973Z"
+    },
+    {
+      "id": "log-mtyy1tqj-oww5",
+      "level": "WARN",
+      "message": "[AUTO-SYNC] Aviso na sincronização automática do painel: Falha ao conectar com o Playwright: browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=18920\n[pid=18920][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=18920\u001b[22m\n\u001b[2m  - [pid=18920][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=18920] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=18920] <kill>\u001b[22m\n\u001b[2m  - [pid=18920] <will force kill>\u001b[22m\n\u001b[2m  - [pid=18920] taskkill stderr: ERRO: o processo \"18920\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=18920] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=18920] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=18920] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=18920] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:15:39.979Z"
+    },
+    {
+      "id": "log-mtyy1xmx-79z4",
+      "level": "INFO",
+      "message": "[19:15:45] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T22:15:45.033Z"
+    },
+    {
+      "id": "log-mtyy1xn4-mlj0",
+      "level": "INFO",
+      "message": "[19:15:45] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T22:15:45.040Z"
+    },
+    {
+      "id": "log-mtyy1xn9-387i",
+      "level": "INFO",
+      "message": "[19:15:45] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T22:15:45.045Z"
+    },
+    {
+      "id": "log-mtyy1xx2-y48b",
+      "level": "INFO",
+      "message": "[19:15:45] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T22:15:45.398Z"
+    },
+    {
+      "id": "log-mtyy1xx4-z6nc",
+      "level": "INFO",
+      "message": "[19:15:45] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T22:15:45.400Z"
+    },
+    {
+      "id": "log-mtyy1xx7-blpt",
+      "level": "INFO",
+      "message": "[19:15:45] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T22:15:45.403Z"
+    },
+    {
+      "id": "log-mtyy1xxa-6q39",
+      "level": "INFO",
+      "message": "[19:15:45] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T22:15:45.406Z"
+    },
+    {
+      "id": "log-mtyy1y8b-6o0y",
+      "level": "ERROR",
+      "message": "[19:15:45] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=17716\n[pid=17716][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=17716\u001b[22m\n\u001b[2m  - [pid=17716][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=17716] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=17716] <kill>\u001b[22m\n\u001b[2m  - [pid=17716] <will force kill>\u001b[22m\n\u001b[2m  - [pid=17716] taskkill stderr: ERRO: o processo \"17716\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=17716] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=17716] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=17716] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=17716] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:15:45.803Z"
+    },
+    {
+      "id": "log-mtyy20ku-ci9o",
+      "level": "INFO",
+      "message": "[19:15:48] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T22:15:48.846Z"
+    },
+    {
+      "id": "log-mtyy20kx-2r66",
+      "level": "INFO",
+      "message": "[19:15:48] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T22:15:48.849Z"
+    },
+    {
+      "id": "log-mtyy20kz-u49l",
+      "level": "INFO",
+      "message": "[19:15:48] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T22:15:48.851Z"
+    },
+    {
+      "id": "log-mtyy20po-zcu7",
+      "level": "INFO",
+      "message": "[19:15:49] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T22:15:49.020Z"
+    },
+    {
+      "id": "log-mtyy20pr-21dy",
+      "level": "INFO",
+      "message": "[19:15:49] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T22:15:49.023Z"
+    },
+    {
+      "id": "log-mtyy20pt-0vse",
+      "level": "INFO",
+      "message": "[19:15:49] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T22:15:49.025Z"
+    },
+    {
+      "id": "log-mtyy20pv-mzco",
+      "level": "INFO",
+      "message": "[19:15:49] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T22:15:49.027Z"
+    },
+    {
+      "id": "log-mtyy210h-pmg1",
+      "level": "ERROR",
+      "message": "[19:15:49] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=24136\n[pid=24136][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=24136\u001b[22m\n\u001b[2m  - [pid=24136][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=24136] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=24136] <kill>\u001b[22m\n\u001b[2m  - [pid=24136] <will force kill>\u001b[22m\n\u001b[2m  - [pid=24136] taskkill stderr: ERRO: o processo \"24136\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=24136] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=24136] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=24136] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=24136] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:15:49.409Z"
+    },
+    {
+      "id": "log-mtyy23li-3mx4",
+      "level": "INFO",
+      "message": "[19:15:52] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T22:15:52.758Z"
+    },
+    {
+      "id": "log-mtyy23ll-vz9s",
+      "level": "INFO",
+      "message": "[19:15:52] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T22:15:52.761Z"
+    },
+    {
+      "id": "log-mtyy23lo-bla6",
+      "level": "INFO",
+      "message": "[19:15:52] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T22:15:52.764Z"
+    },
+    {
+      "id": "log-mtyy23lq-vh1u",
+      "level": "INFO",
+      "message": "[19:15:52] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T22:15:52.766Z"
+    },
+    {
+      "id": "log-mtyy23lt-mti4",
+      "level": "INFO",
+      "message": "[19:15:52] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T22:15:52.769Z"
+    },
+    {
+      "id": "log-mtyy23lv-kz2r",
+      "level": "INFO",
+      "message": "[19:15:52] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T22:15:52.771Z"
+    },
+    {
+      "id": "log-mtyy23ly-5t6i",
+      "level": "INFO",
+      "message": "[19:15:52] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T22:15:52.774Z"
+    },
+    {
+      "id": "log-mtyy23we-dsjc",
+      "level": "ERROR",
+      "message": "[19:15:53] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=7792\n[pid=7792][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=7792\u001b[22m\n\u001b[2m  - [pid=7792][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=7792] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=7792] <kill>\u001b[22m\n\u001b[2m  - [pid=7792] <will force kill>\u001b[22m\n\u001b[2m  - [pid=7792] taskkill stderr: ERRO: o processo \"7792\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=7792] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=7792] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=7792] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=7792] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:15:53.150Z"
+    },
+    {
+      "id": "log-mtyy2826-yzcw",
+      "level": "INFO",
+      "message": "[19:15:58] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T22:15:58.542Z"
+    },
+    {
+      "id": "log-mtyy2829-p4oo",
+      "level": "INFO",
+      "message": "[19:15:58] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T22:15:58.545Z"
+    },
+    {
+      "id": "log-mtyy282c-mnva",
+      "level": "INFO",
+      "message": "[19:15:58] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T22:15:58.548Z"
+    },
+    {
+      "id": "log-mtyy282f-mki7",
+      "level": "INFO",
+      "message": "[19:15:58] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T22:15:58.551Z"
+    },
+    {
+      "id": "log-mtyy282h-d5u9",
+      "level": "INFO",
+      "message": "[19:15:58] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T22:15:58.553Z"
+    },
+    {
+      "id": "log-mtyy282k-pd7k",
+      "level": "INFO",
+      "message": "[19:15:58] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T22:15:58.556Z"
+    },
+    {
+      "id": "log-mtyy282n-cpjw",
+      "level": "INFO",
+      "message": "[19:15:58] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T22:15:58.559Z"
+    },
+    {
+      "id": "log-mtyy28ey-5boe",
+      "level": "ERROR",
+      "message": "[19:15:59] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=19096\n[pid=19096][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=19096\u001b[22m\n\u001b[2m  - [pid=19096][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=19096] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=19096] <kill>\u001b[22m\n\u001b[2m  - [pid=19096] <will force kill>\u001b[22m\n\u001b[2m  - [pid=19096] taskkill stderr: ERRO: o processo \"19096\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=19096] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=19096] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=19096] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=19096] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:15:59.002Z"
+    },
+    {
+      "id": "log-mtyy2mn2-mrui",
+      "level": "INFO",
+      "message": "[19:16:17] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T22:16:17.438Z"
+    },
+    {
+      "id": "log-mtyy2mn5-h3wv",
+      "level": "INFO",
+      "message": "[19:16:17] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T22:16:17.441Z"
+    },
+    {
+      "id": "log-mtyy2mn8-7stt",
+      "level": "INFO",
+      "message": "[19:16:17] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T22:16:17.444Z"
+    },
+    {
+      "id": "log-mtyy2mna-q3fw",
+      "level": "INFO",
+      "message": "[19:16:17] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T22:16:17.446Z"
+    },
+    {
+      "id": "log-mtyy2mnd-mjk7",
+      "level": "INFO",
+      "message": "[19:16:17] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T22:16:17.449Z"
+    },
+    {
+      "id": "log-mtyy2mnf-ejtl",
+      "level": "INFO",
+      "message": "[19:16:17] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T22:16:17.451Z"
+    },
+    {
+      "id": "log-mtyy2mnj-8olp",
+      "level": "INFO",
+      "message": "[19:16:17] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T22:16:17.455Z"
+    },
+    {
+      "id": "log-mtyy2mz8-k7fj",
+      "level": "ERROR",
+      "message": "[19:16:17] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=14900\n[pid=14900][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=14900\u001b[22m\n\u001b[2m  - [pid=14900][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=14900] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=14900] <kill>\u001b[22m\n\u001b[2m  - [pid=14900] <will force kill>\u001b[22m\n\u001b[2m  - [pid=14900] taskkill stderr: ERRO: o processo \"14900\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=14900] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=14900] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=14900] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=14900] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:16:17.876Z"
+    },
+    {
+      "id": "log-mtyy2ojq-6hm8",
+      "level": "INFO",
+      "message": "[SYNC] Sincronização manual com o painel IPTV solicitada...",
+      "timestamp": "2026-09-12T22:16:19.910Z"
+    },
+    {
+      "id": "log-mtyy2oju-o7v7",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Iniciando sincronização com o painel IPTV...",
+      "timestamp": "2026-09-12T22:16:19.914Z"
+    },
+    {
+      "id": "log-mtyy2ojw-zree",
+      "level": "INFO",
+      "message": "[IPTV] Navegador não está ativo. Iniciando automaticamente...",
+      "timestamp": "2026-09-12T22:16:19.916Z"
+    },
+    {
+      "id": "log-mtyy2ojz-283x",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T22:16:19.919Z"
+    },
+    {
+      "id": "log-mtyy2ok2-pktx",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T22:16:19.922Z"
+    },
+    {
+      "id": "log-mtyy2ok5-a2ld",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T22:16:19.925Z"
+    },
+    {
+      "id": "log-mtyy2ok8-00gz",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T22:16:19.928Z"
+    },
+    {
+      "id": "log-mtyy2oka-179e",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T22:16:19.930Z"
+    },
+    {
+      "id": "log-mtyy2oke-t9h3",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T22:16:19.934Z"
+    },
+    {
+      "id": "log-mtyy2okh-7pdg",
+      "level": "INFO",
+      "message": "[19:16:19] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T22:16:19.937Z"
+    },
+    {
+      "id": "log-mtyy2ouw-y20x",
+      "level": "ERROR",
+      "message": "[19:16:20] [IPTV ERROR] browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=11500\n[pid=11500][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=11500\u001b[22m\n\u001b[2m  - [pid=11500][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=11500] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=11500] <kill>\u001b[22m\n\u001b[2m  - [pid=11500] <will force kill>\u001b[22m\n\u001b[2m  - [pid=11500] taskkill stderr: ERRO: o processo \"11500\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=11500] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=11500] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=11500] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=11500] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:16:20.312Z"
+    },
+    {
+      "id": "log-mtyy2ov0-0vsl",
+      "level": "ERROR",
+      "message": "[SYNC ERROR] Falha ao conectar com o Playwright: browserType.launchPersistentContext: Target page, context or browser has been closed\nBrowser logs:\n\n<launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\n<launched> pid=11500\n[pid=11500][out] Abrindo em uma sess�o de navegador existente.\nCall log:\n\u001b[2m  - <launching> C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe --disable-field-trial-config --disable-background-networking --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-edgeupdater --disable-extensions --disable-features=AvoidUnnecessaryBeforeUnloadCheckSync,BoundaryEventDispatchTracksNodeRemoval,DestroyProfileOnBrowserClose,DialMediaRouteProvider,GlobalMediaControls,HttpsUpgrades,LensOverlay,MediaRouter,PaintHolding,ThirdPartyStoragePartitioning,BlockOriginHeaderModificationOnRedirect,Translate,AutoDeElevate,OptimizationHints,msForceBrowserSignIn,msEdgeUpdateLaunchServicesPreferredVersion --enable-features=CDPScreenshotNewSurface --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-updater-scheduler --force-color-profile=srgb --metrics-recording-only --no-first-run --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --disable-search-engine-choice-screen --unsafely-disable-devtools-self-xss-warnings --edge-skip-compat-layer-relaunch --disable-infobars --disable-search-engine-choice-screen --disable-sync --enable-unsafe-swiftshader --no-sandbox --no-sandbox --disable-setuid-sandbox --disable-dev-shm-usage --start-maximized --window-size=1920,1080 --user-data-dir=C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile --remote-debugging-pipe about:blank\u001b[22m\n\u001b[2m  - <launched> pid=11500\u001b[22m\n\u001b[2m  - [pid=11500][out] Abrindo em uma sess�o de navegador existente.\u001b[22m\n\u001b[2m  - [pid=11500] <gracefully close start>\u001b[22m\n\u001b[2m  - [pid=11500] <kill>\u001b[22m\n\u001b[2m  - [pid=11500] <will force kill>\u001b[22m\n\u001b[2m  - [pid=11500] taskkill stderr: ERRO: o processo \"11500\" n�o foi encontrado.\u001b[22m\n\u001b[2m  - [pid=11500] <process did exit: exitCode=0, signal=null>\u001b[22m\n\u001b[2m  - [pid=11500] starting temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=11500] finished temporary directories cleanup\u001b[22m\n\u001b[2m  - [pid=11500] <gracefully close end>\u001b[22m\n",
+      "timestamp": "2026-09-12T22:16:20.316Z"
+    },
+    {
+      "id": "log-mtyy36qs-85rd",
+      "level": "INFO",
+      "message": "[19:16:43] [IPTV] Solicitação de conexão recebida",
+      "timestamp": "2026-09-12T22:16:43.492Z"
+    },
+    {
+      "id": "log-mtyy36qv-d5m7",
+      "level": "INFO",
+      "message": "[19:16:43] [IPTV] Sistema operacional detectado: win32",
+      "timestamp": "2026-09-12T22:16:43.495Z"
+    },
+    {
+      "id": "log-mtyy36qz-sy5j",
+      "level": "INFO",
+      "message": "[19:16:43] [IPTV] Criando/verificando diretório persistente",
+      "timestamp": "2026-09-12T22:16:43.499Z"
+    },
+    {
+      "id": "log-mtyy36r2-xgzz",
+      "level": "INFO",
+      "message": "[19:16:43] [IPTV] Diretório: C:\\Users\\USER\\Downloads\\IPTV\\backend\\data\\iptv-browser-profile",
+      "timestamp": "2026-09-12T22:16:43.502Z"
+    },
+    {
+      "id": "log-mtyy36r5-rt7y",
+      "level": "INFO",
+      "message": "[19:16:43] [IPTV] Iniciando navegador Playwright",
+      "timestamp": "2026-09-12T22:16:43.505Z"
+    },
+    {
+      "id": "log-mtyy36r8-o48b",
+      "level": "INFO",
+      "message": "[19:16:43] [IPTV] Headless: false",
+      "timestamp": "2026-09-12T22:16:43.508Z"
+    },
+    {
+      "id": "log-mtyy36rb-t3sk",
+      "level": "INFO",
+      "message": "[19:16:43] [IPTV] Utilizando executável: C:\\Users\\USER\\AppData\\Local\\ms-playwright\\chromium-1234\\chrome-win64\\chrome.exe",
+      "timestamp": "2026-09-12T22:16:43.511Z"
+    },
+    {
+      "id": "log-mtyy375k-sxwd",
+      "level": "SUCCESS",
+      "message": "[19:16:44] [IPTV] Navegador iniciado com sucesso",
+      "timestamp": "2026-09-12T22:16:44.024Z"
+    },
+    {
+      "id": "log-mtyy375p-5xu0",
+      "level": "INFO",
+      "message": "[19:16:44] [IPTV] Página criada",
+      "timestamp": "2026-09-12T22:16:44.029Z"
+    },
+    {
+      "id": "log-mtyy375u-i85x",
+      "level": "INFO",
+      "message": "[19:16:44] [IPTV] Navegando para painel IPTV: https://searchdefense.top/#/users-iptv",
+      "timestamp": "2026-09-12T22:16:44.034Z"
+    },
+    {
+      "id": "log-mtyy37he-7tcw",
+      "level": "INFO",
+      "message": "[19:16:44] [IPTV] URL atual: https://searchdefense.top/#/users-iptv",
+      "timestamp": "2026-09-12T22:16:44.450Z"
+    },
+    {
+      "id": "log-mtyy37i3-pdih",
+      "level": "INFO",
+      "message": "[19:16:44] [IPTV] Título da página: Painel Office",
+      "timestamp": "2026-09-12T22:16:44.475Z"
+    },
+    {
+      "id": "log-mtyy38p5-ognx",
+      "level": "SUCCESS",
+      "message": "[19:16:46] [IPTV] Conexão inicial concluída",
+      "timestamp": "2026-09-12T22:16:46.025Z"
+    },
+    {
+      "id": "log-mtyy3d61-9k22",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Inicialização do servidor)...",
+      "timestamp": "2026-09-12T22:16:51.817Z"
+    },
+    {
+      "id": "log-mtyy3ebg-7oc6",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-12T22:16:53.308Z"
+    },
+    {
+      "id": "log-mtyy3eun-rgun",
+      "level": "INFO",
+      "message": "[19:16:53] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-12T22:16:53.999Z"
+    },
+    {
+      "id": "log-mtyy3ewn-4nmj",
+      "level": "INFO",
+      "message": "[19:16:54] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-12T22:16:54.071Z"
+    },
+    {
+      "id": "log-mtyy3fa9-sme9",
+      "level": "SUCCESS",
+      "message": "[19:16:54] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-12T22:16:54.561Z"
+    },
+    {
+      "id": "log-mtyy4pin-875d",
+      "level": "INFO",
+      "message": "[SYNC] Sincronização manual com o painel IPTV solicitada...",
+      "timestamp": "2026-09-12T22:17:54.479Z"
+    },
+    {
+      "id": "log-mtyy4pir-rqd6",
+      "level": "INFO",
+      "message": "[19:17:54] [IPTV] Iniciando sincronização com o painel IPTV...",
+      "timestamp": "2026-09-12T22:17:54.483Z"
+    },
+    {
+      "id": "log-mtyy4piu-6t61",
+      "level": "INFO",
+      "message": "[19:17:54] [IPTV] Aguardando renderização do Vue SPA (aguardando '.iptv-username' por até 30s)...",
+      "timestamp": "2026-09-12T22:17:54.486Z"
+    },
+    {
+      "id": "log-mtyy4qjp-4nd7",
+      "level": "INFO",
+      "message": "[19:17:55] [IPTV] Usuários encontrados: 12",
+      "timestamp": "2026-09-12T22:17:55.813Z"
+    },
+    {
+      "id": "log-mtyy4qp4-5upu",
+      "level": "SUCCESS",
+      "message": "[19:17:56] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 12)",
+      "timestamp": "2026-09-12T22:17:56.008Z"
+    },
+    {
+      "id": "log-mtyy4qp9-ey9l",
+      "level": "SUCCESS",
+      "message": "[SYNC] Sincronização finalizada! Total: 12 | Novos: 0 | Atualizados: 12",
+      "timestamp": "2026-09-12T22:17:56.013Z"
+    },
+    {
+      "id": "log-mtyybel7-aore",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-12T22:23:06.907Z"
+    },
+    {
+      "id": "log-mtyybfou-5tyj",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-12T22:23:08.334Z"
+    },
+    {
+      "id": "log-mtyyhvf7-08zr",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-12T22:28:08.659Z"
+    },
+    {
+      "id": "log-mtyyhwto-7h7l",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-12T22:28:10.476Z"
+    },
+    {
+      "id": "log-mu0ddx3o-qo10",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Inicialização do servidor)...",
+      "timestamp": "2026-09-13T22:12:44.628Z"
+    },
+    {
+      "id": "log-mu0desu5-q0bt",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:13:25.757Z"
+    },
+    {
+      "id": "log-mu0df4t1-af7b",
+      "level": "INFO",
+      "message": "[19:13:41] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-13T22:13:41.269Z"
+    },
+    {
+      "id": "log-mu0df4v6-4s0c",
+      "level": "INFO",
+      "message": "[19:13:41] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-13T22:13:41.346Z"
+    },
+    {
+      "id": "log-mu0df5s7-fpo1",
+      "level": "SUCCESS",
+      "message": "[19:13:42] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-13T22:13:42.535Z"
+    },
+    {
+      "id": "log-mu0dlbd0-9881",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:18:29.700Z"
+    },
+    {
+      "id": "log-mu0dlchm-hylp",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:18:31.162Z"
+    },
+    {
+      "id": "log-mu0dse29-ynsx",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:23:59.793Z"
+    },
+    {
+      "id": "log-mu0dsf75-boq7",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:24:01.265Z"
+    },
+    {
+      "id": "log-mu0dxwdz-j1e1",
+      "level": "INFO",
+      "message": "[CLIENT LOGIN] Login realizado com sucesso por GUILHERME NASCIMENTO (#cust-mthksnd5-c3o)",
+      "timestamp": "2026-09-13T22:28:16.823Z"
+    },
+    {
+      "id": "log-mu0dzgrm-zfao",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:29:29.890Z"
+    },
+    {
+      "id": "log-mu0dzhv5-ysri",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:29:31.313Z"
+    },
+    {
+      "id": "log-mu0e6jft-adl9",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:34:59.945Z"
+    },
+    {
+      "id": "log-mu0e6kjz-d1mx",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:35:01.391Z"
+    },
+    {
+      "id": "log-mu0edm4e-sk2u",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:40:30.014Z"
+    },
+    {
+      "id": "log-mu0edn8g-gndi",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:40:31.456Z"
+    },
+    {
+      "id": "log-mu0ekotw-hty9",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:46:00.116Z"
+    },
+    {
+      "id": "log-mu0ekq2t-svgn",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:46:01.733Z"
+    },
+    {
+      "id": "log-mu0errj6-bxws",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:51:30.210Z"
+    },
+    {
+      "id": "log-mu0ersnb-p1j5",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:51:31.655Z"
+    },
+    {
+      "id": "log-mu0eyu7z-5hjx",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T22:57:00.287Z"
+    },
+    {
+      "id": "log-mu0eyvbr-kqyq",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T22:57:01.719Z"
+    },
+    {
+      "id": "log-mu0f5x5g-xy8p",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:02:30.676Z"
+    },
+    {
+      "id": "log-mu0f5y8z-dyta",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T23:02:32.099Z"
+    },
+    {
+      "id": "log-mu0fczu6-en0s",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:08:00.750Z"
+    },
+    {
+      "id": "log-mu0fd0yb-wtul",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T23:08:02.195Z"
+    },
+    {
+      "id": "log-mu0fk2iz-1yj9",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:13:30.827Z"
+    },
+    {
+      "id": "log-mu0fk3pi-h2vt",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T23:13:32.358Z"
+    },
+    {
+      "id": "log-mu0fr57w-kooy",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:19:00.908Z"
+    },
+    {
+      "id": "log-mu0fr6by-ryhy",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T23:19:02.350Z"
+    },
+    {
+      "id": "log-mu0fy7xc-zdo8",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:24:31.008Z"
+    },
+    {
+      "id": "log-mu0fy917-pp39",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T23:24:32.443Z"
+    },
+    {
+      "id": "log-mu0g55by-wyxf",
+      "level": "INFO",
+      "message": "Novo acesso IPTV criado: sala (979157367)",
+      "timestamp": "2026-09-13T23:29:54.238Z"
+    },
+    {
+      "id": "log-mu0g5amo-i6se",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:30:01.104Z"
+    },
+    {
+      "id": "log-mu0g5bq8-amlb",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 12 usuários verificados (0 novos, 12 atualizados).",
+      "timestamp": "2026-09-13T23:30:02.528Z"
+    },
+    {
+      "id": "log-mu0g7xnd-obmz",
+      "level": "INFO",
+      "message": "[TEST] Solicitação de teste recebida",
+      "timestamp": "2026-09-13T23:32:04.249Z"
+    },
+    {
+      "id": "log-mu0g7xng-rkdw",
+      "level": "INFO",
+      "message": "[TEST] Cliente ID: cust-mthksnd5-c3o",
+      "timestamp": "2026-09-13T23:32:04.252Z"
+    },
+    {
+      "id": "log-mu0g7xnl-h16z",
+      "level": "INFO",
+      "message": "[TEST] TestRequestId: 7db6376c-3960-439d-a39d-6cbbb4e208d0",
+      "timestamp": "2026-09-13T23:32:04.257Z"
+    },
+    {
+      "id": "log-mu0g7xnt-mw5z",
+      "level": "INFO",
+      "message": "[20:32:04] [TEST] Solicitação de teste recebida",
+      "timestamp": "2026-09-13T23:32:04.265Z"
+    },
+    {
+      "id": "log-mu0g7xny-5dv8",
+      "level": "INFO",
+      "message": "[20:32:04] [TEST] Cliente ID: cust-mthksnd5-c3o",
+      "timestamp": "2026-09-13T23:32:04.270Z"
+    },
+    {
+      "id": "log-mu0g7xo4-3xss",
+      "level": "INFO",
+      "message": "[20:32:04] [TEST] TestRequestId: 7db6376c-3960-439d-a39d-6cbbb4e208d0",
+      "timestamp": "2026-09-13T23:32:04.276Z"
+    },
+    {
+      "id": "log-mu0g7yu5-j5i0",
+      "level": "INFO",
+      "message": "[20:32:05] [TEST] Abrindo fluxo \"Gerar IPTV\"",
+      "timestamp": "2026-09-13T23:32:05.789Z"
+    },
+    {
+      "id": "log-mu0g7yx2-grpi",
+      "level": "INFO",
+      "message": "[20:32:05] [TEST] Botão \"Gerar IPTV\" encontrado",
+      "timestamp": "2026-09-13T23:32:05.894Z"
+    },
+    {
+      "id": "log-mu0g7yx5-diki",
+      "level": "INFO",
+      "message": "[20:32:05] [TEST] Botão \"Gerar IPTV\" clicado",
+      "timestamp": "2026-09-13T23:32:05.897Z"
+    },
+    {
+      "id": "log-mu0g7z01-e4na",
+      "level": "INFO",
+      "message": "[20:32:06] [TEST] SweetAlert da nota localizado",
+      "timestamp": "2026-09-13T23:32:06.001Z"
+    },
+    {
+      "id": "log-mu0g7z0s-gicj",
+      "level": "INFO",
+      "message": "[20:32:06] [TEST] Nota preenchida",
+      "timestamp": "2026-09-13T23:32:06.028Z"
+    },
+    {
+      "id": "log-mu0g7z0w-yq90",
+      "level": "INFO",
+      "message": "[20:32:06] [TEST] Confirmando nota",
+      "timestamp": "2026-09-13T23:32:06.032Z"
+    },
+    {
+      "id": "log-mu0g7zud-3m4z",
+      "level": "INFO",
+      "message": "[20:32:07] [TEST] SweetAlert de seleção de duração localizado",
+      "timestamp": "2026-09-13T23:32:07.093Z"
+    },
+    {
+      "id": "log-mu0g7zuj-pef4",
+      "level": "INFO",
+      "message": "[20:32:07] [TEST] Selecionando duração: 1 Hora",
+      "timestamp": "2026-09-13T23:32:07.099Z"
+    },
+    {
+      "id": "log-mu0g8044-fpjo",
+      "level": "INFO",
+      "message": "[20:32:07] [TEST] Valor selecionado: 1",
+      "timestamp": "2026-09-13T23:32:07.444Z"
+    },
+    {
+      "id": "log-mu0g8049-funo",
+      "level": "INFO",
+      "message": "[20:32:07] [TEST] Confirmando criação do teste",
+      "timestamp": "2026-09-13T23:32:07.449Z"
+    },
+    {
+      "id": "log-mu0g8061-ec7x",
+      "level": "INFO",
+      "message": "[20:32:07] [TEST] Aguardando criação real no painel",
+      "timestamp": "2026-09-13T23:32:07.513Z"
+    },
+    {
+      "id": "log-mu0g83dg-ohm8",
+      "level": "INFO",
+      "message": "[20:32:11] [TEST] Modal de resultado localizado",
+      "timestamp": "2026-09-13T23:32:11.668Z"
+    },
+    {
+      "id": "log-mu0g83dk-jdy7",
+      "level": "INFO",
+      "message": "[20:32:11] [TEST] Conteúdo do modal:\n×\nSeja bem vindo ao IPTV!\n\nUSUÁRIO: 461807391\nSENHA: C316a1046c\nVENCIMENTO: 13/09/2026 21:31:56\n\nLINK (M3U8): http://nanoignite.click/get.php?username=461807391&password=C316a1046c&type=m3u_plus&output=hls\n\n\nLINK (M3U8) HLS SENCURTADO: https://tinyurl.com/25gtc2zp\n\n\nLINK (M3U8) MPEGTS: http://nanoignite.click/get.php?username=461807391&password=C316a1046c&type=m3u_plus&output=ts\n\n\nLINK (M3U8) MPEGTS ENCURTADO: https://tinyurl.com/2753vn33\n\n\nLINK SSIPTV (M3U8) ENCURTADO: https://tinyurl.com/2264o99l\n\n\n\n\n\n🍿 APLICATIVOS ANDROID IPTV\n\nhttps://play.google.com/store/apps/details?id=link.ntdev.ntdw&hl=pt_BR&gl=US\n\n🌟 PIXEL PLAYER\n\nPin Downloader: 5413559\n\nhttps://tinyurl.com/pixel-android-novo\n\n\n\n\nProvider: Uniplay\n\nUsuário:\n\nSenha:\n\n\n\n\n\n\n\n🌟 XCIPTV Uniplay\n\nDownloader - 595381\n\nPin Ntdown - 84254\n\nApk - https://5664.in/7gtyap4a\n\n\n\n\n\n\n\n🍿 APLICATIVOS PARA TV SMART\n\n\n\n\n🌟 PIXEL PLAYER\n\nSmart TV Samsung (Superior Tizen 6.0 ano 2021)\nLG (webOS 3.5 ou superior ano 2017)\nAndroid TV e Celular (versão superior 7.1)\n\nDownloader - 5413559\n\nProvider: Uniplay\n\nUsuário:\n\nSenha:\n\n\n\n\n🌟  PRIME IPTV - \n\nSistema Roku - LG - Samsung (fora Brasil).\n\n(Ativação pelo painel ou direto no app com usuário e senha)\n\nPrime IPTV - Código:  aiqohye8\n\n\n\n\n🌟  FUN PLAY  \n\nSistema: Smart TV Samsung\n\n(Ativação direto no aplicativo: código, usuário e senha)\n\nCódigo: asutk\n\nUsuário:\n\nSenha:\n\n\n\n\n\n\n\n🌟 X-CLOUD -\n\nSistema: Smart Tv - Samsung - LG.\nIphone\n\nHost: Uniplay\n\nUsuário:\n\nSenha:\n\n\n\n\n___________________________________________________\n\nWeb Player: http://navegauni.top/\n\nPortal do cliente: https://portaltop.net\n\n___________________________________________________\n\nDNS: http://blushes.top\n\n\n\n\nDNS Smarters (Smarteres/XCIPTV/API e outros):  http://blushes.top\n\n___________________________________________________\n\n🌟STB V3 (Tema Netflix): 84.17.40.32\n\n🌟STB V3 R1(Tema Netflix):149.78.185.94\n\n🌟STB V3 R2 (Tema Netflix): 209.14.68.83\n\n🌟STB V1 : 135.148.43.69\n\n___________________________________________________\n\nEPG: https://tinyurl.com/uniepg\n\n\n\n\n\nAPROVEITE!\n\nSEU TESTE É VALIDO POR 1 HORAS\n\nCopiarCopiar Completo",
+      "timestamp": "2026-09-13T23:32:11.672Z"
+    },
+    {
+      "id": "log-mu0g83dn-zums",
+      "level": "INFO",
+      "message": "[20:32:11] [TEST] Extraindo dados reais do painel",
+      "timestamp": "2026-09-13T23:32:11.675Z"
+    },
+    {
+      "id": "log-mu0g83ef-sqoj",
+      "level": "INFO",
+      "message": "[20:32:11] [TEST] Validando dados",
+      "timestamp": "2026-09-13T23:32:11.703Z"
+    },
+    {
+      "id": "log-mu0g83ei-8b4o",
+      "level": "INFO",
+      "message": "[20:32:11] [TEST] Usuário real: 461807391",
+      "timestamp": "2026-09-13T23:32:11.706Z"
+    },
+    {
+      "id": "log-mu0g83el-nhm7",
+      "level": "INFO",
+      "message": "[20:32:11] [TEST] Senha real encontrada",
+      "timestamp": "2026-09-13T23:32:11.709Z"
+    },
+    {
+      "id": "log-mu0g83en-eey3",
+      "level": "INFO",
+      "message": "[20:32:11] [TEST] Vencimento real: 13/09/2026 21:31:56",
+      "timestamp": "2026-09-13T23:32:11.711Z"
+    },
+    {
+      "id": "log-mu0g83ew-978o",
+      "level": "INFO",
+      "message": "[TEST] Salvando teste no banco",
+      "timestamp": "2026-09-13T23:32:11.720Z"
+    },
+    {
+      "id": "log-mu0g83ez-t0d2",
+      "level": "INFO",
+      "message": "[TEST] Teste associado ao cliente: GUILHERME NASCIMENTO (#cust-mthksnd5-c3o)",
+      "timestamp": "2026-09-13T23:32:11.723Z"
+    },
+    {
+      "id": "log-mu0g83f2-zd3e",
+      "level": "SUCCESS",
+      "message": "[TEST] Teste IPTV criado com sucesso - Usuário: 461807391 (Vencimento: 13/09/2026 21:31:56)",
+      "timestamp": "2026-09-13T23:32:11.726Z"
+    },
+    {
+      "id": "log-mu0g83f7-xki7",
+      "level": "INFO",
+      "message": "[TEST] Teste real criado no painel",
+      "timestamp": "2026-09-13T23:32:11.731Z"
+    },
+    {
+      "id": "log-mu0g83f9-7vuo",
+      "level": "INFO",
+      "message": "[TEST] Dados reais extraídos",
+      "timestamp": "2026-09-13T23:32:11.733Z"
+    },
+    {
+      "id": "log-mu0g83fb-sbs5",
+      "level": "INFO",
+      "message": "[TEST] Salvando teste no banco",
+      "timestamp": "2026-09-13T23:32:11.735Z"
+    },
+    {
+      "id": "log-mu0g83ff-co07",
+      "level": "INFO",
+      "message": "[TEST] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-13T23:32:11.739Z"
+    },
+    {
+      "id": "log-mu0g83fk-yfgl",
+      "level": "INFO",
+      "message": "[TEST] Sincronização automática iniciada",
+      "timestamp": "2026-09-13T23:32:11.744Z"
+    },
+    {
+      "id": "log-mu0g83fq-2egk",
+      "level": "INFO",
+      "message": "[20:32:11] [IPTV] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-13T23:32:11.750Z"
+    },
+    {
+      "id": "log-mu0g83fu-qmvl",
+      "level": "INFO",
+      "message": "[20:32:11] [IPTV] page.reload() iniciado",
+      "timestamp": "2026-09-13T23:32:11.754Z"
+    },
+    {
+      "id": "log-mu0g840k-fznv",
+      "level": "INFO",
+      "message": "[20:32:12] [IPTV] page.reload() concluído",
+      "timestamp": "2026-09-13T23:32:12.500Z"
+    },
+    {
+      "id": "log-mu0g840q-zy3d",
+      "level": "INFO",
+      "message": "[20:32:12] [IPTV] Aguardando renderização Vue",
+      "timestamp": "2026-09-13T23:32:12.506Z"
+    },
+    {
+      "id": "log-mu0g85w8-f7qx",
+      "level": "INFO",
+      "message": "[20:32:14] [IPTV] .iptv-username encontrado (13 usuários)",
+      "timestamp": "2026-09-13T23:32:14.936Z"
+    },
+    {
+      "id": "log-mu0g86oj-0jox",
+      "level": "INFO",
+      "message": "[20:32:15] [IPTV] Iniciando sincronização automática",
+      "timestamp": "2026-09-13T23:32:15.955Z"
+    },
+    {
+      "id": "log-mu0g86xv-lcxm",
+      "level": "INFO",
+      "message": "[20:32:16] [IPTV] Usuários encontrados: 13",
+      "timestamp": "2026-09-13T23:32:16.291Z"
+    },
+    {
+      "id": "log-mu0g870x-iwgx",
+      "level": "INFO",
+      "message": "[20:32:16] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 13)",
+      "timestamp": "2026-09-13T23:32:16.401Z"
+    },
+    {
+      "id": "log-mu0g8710-xwn4",
+      "level": "SUCCESS",
+      "message": "[20:32:16] [IPTV] Sincronização automática concluída",
+      "timestamp": "2026-09-13T23:32:16.404Z"
+    },
+    {
+      "id": "log-mu0g8713-2uv5",
+      "level": "SUCCESS",
+      "message": "[TEST] Sincronização automática concluída",
+      "timestamp": "2026-09-13T23:32:16.407Z"
+    },
+    {
+      "id": "log-mu0g8716-l5bx",
+      "level": "SUCCESS",
+      "message": "[TEST] Teste finalizado com sucesso",
+      "timestamp": "2026-09-13T23:32:16.410Z"
+    },
+    {
+      "id": "log-mu0gcdcc-ozf5",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:35:31.212Z"
+    },
+    {
+      "id": "log-mu0gceha-smgr",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 13 usuários verificados (0 novos, 13 atualizados).",
+      "timestamp": "2026-09-13T23:35:32.686Z"
+    },
+    {
+      "id": "log-mu0gj42n-b4k3",
+      "level": "INFO",
+      "message": "[20:40:45] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-13T23:40:45.791Z"
+    },
+    {
+      "id": "log-mu0gj44n-gnks",
+      "level": "INFO",
+      "message": "[20:40:45] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-13T23:40:45.863Z"
+    },
+    {
+      "id": "log-mu0gj4nz-jvoo",
+      "level": "SUCCESS",
+      "message": "[20:40:46] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-13T23:40:46.559Z"
+    },
+    {
+      "id": "log-mu0gjg17-pj87",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:41:01.291Z"
+    },
+    {
+      "id": "log-mu0gjh6q-5tfa",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 13 usuários verificados (0 novos, 13 atualizados).",
+      "timestamp": "2026-09-13T23:41:02.786Z"
+    },
+    {
+      "id": "log-mu0gqipp-cqpl",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-13T23:46:31.357Z"
+    },
+    {
+      "id": "log-mu0gqjun-4wya",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 13 usuários verificados (0 novos, 13 atualizados).",
+      "timestamp": "2026-09-13T23:46:32.831Z"
+    },
+    {
+      "id": "log-mu0gwwpd-lmo7",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Inicialização do servidor)...",
+      "timestamp": "2026-09-13T23:51:29.425Z"
+    },
+    {
+      "id": "log-mu0gx4iz-0vxr",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 13 usuários verificados (0 novos, 13 atualizados).",
+      "timestamp": "2026-09-13T23:51:39.563Z"
+    },
+    {
+      "id": "log-mu0gzuzr-xrql",
+      "level": "INFO",
+      "message": "[SYNC] Sincronização manual com o painel IPTV solicitada...",
+      "timestamp": "2026-09-13T23:53:47.175Z"
+    },
+    {
+      "id": "log-mu0gzuzv-6prs",
+      "level": "INFO",
+      "message": "[20:53:47] [IPTV] Iniciando sincronização com o painel IPTV...",
+      "timestamp": "2026-09-13T23:53:47.179Z"
+    },
+    {
+      "id": "log-mu0gzuzy-032q",
+      "level": "INFO",
+      "message": "[20:53:47] [IPTV] Aguardando renderização do Vue SPA (aguardando '.iptv-username' por até 30s)...",
+      "timestamp": "2026-09-13T23:53:47.182Z"
+    },
+    {
+      "id": "log-mu0gzw1o-fyz1",
+      "level": "INFO",
+      "message": "[20:53:48] [IPTV] Usuários encontrados: 13",
+      "timestamp": "2026-09-13T23:53:48.540Z"
+    },
+    {
+      "id": "log-mu0gzw55-irrl",
+      "level": "SUCCESS",
+      "message": "[20:53:48] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 13)",
+      "timestamp": "2026-09-13T23:53:48.665Z"
+    },
+    {
+      "id": "log-mu0gzw5b-xfom",
+      "level": "SUCCESS",
+      "message": "[SYNC] Sincronização finalizada! Total: 13 | Novos: 0 | Atualizados: 13",
+      "timestamp": "2026-09-13T23:53:48.671Z"
+    },
+    {
+      "id": "log-mu0h0eun-kt6u",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: GUILHERME NASCIMENTO",
+      "timestamp": "2026-09-13T23:54:12.911Z"
+    },
+    {
+      "id": "log-mu0h12pi-rs64",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[FILA] Nova tarefa #f-yml0: EXCLUSÃO de usuário IPTV 461807391 (GUILHERME NASCIMENTO - Teste Grátis (1h))",
+      "timestamp": "2026-09-13T23:54:43.830Z"
+    },
+    {
+      "id": "log-mu0h12po-lpgr",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[FILA] Iniciando processamento do Job #f-yml0 (Tentativa 1/3) - Usuário: 461807391",
+      "timestamp": "2026-09-13T23:54:43.836Z"
+    },
+    {
+      "id": "log-mu0h12pu-4sse",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[DELETE] Iniciando exclusão de usuário IPTV 461807391 (Cliente: GUILHERME NASCIMENTO)",
+      "timestamp": "2026-09-13T23:54:43.842Z"
+    },
+    {
+      "id": "log-mu0h12py-0q75",
+      "level": "INFO",
+      "message": "[DELETE] Exclusão do ponto 'Teste Grátis (1h)' (461807391) enviada para o Playwright",
+      "timestamp": "2026-09-13T23:54:43.846Z"
+    },
+    {
+      "id": "log-mu0h12q2-s1ph",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:54:43] [DELETE] Solicitação recebida para exclusão de usuário",
+      "timestamp": "2026-09-13T23:54:43.850Z"
+    },
+    {
+      "id": "log-mu0h12q6-1hzw",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:54:43] [DELETE] Processando usuário IPTV: 461807391",
+      "timestamp": "2026-09-13T23:54:43.854Z"
+    },
+    {
+      "id": "log-mu0h12qz-ndwg",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:54:43] [DELETE] Procurando linha exata do usuário: 461807391",
+      "timestamp": "2026-09-13T23:54:43.883Z"
+    },
+    {
+      "id": "log-mu0h1tt1-ge29",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:18] [DELETE] Linha encontrada para usuário: 461807391",
+      "timestamp": "2026-09-13T23:55:18.949Z"
+    },
+    {
+      "id": "log-mu0h1tt5-1j4q",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:18] [DELETE] Nome/nota: Teste - GUILHERME NASCIMENTO (#d5-c3o)",
+      "timestamp": "2026-09-13T23:55:18.953Z"
+    },
+    {
+      "id": "log-mu0h1tth-j2ze",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:18] [DELETE] Localizando menu ... dentro da linha correta",
+      "timestamp": "2026-09-13T23:55:18.965Z"
+    },
+    {
+      "id": "log-mu0h1u7x-xedt",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:19] [DELETE] Menu de ações aberto para 461807391",
+      "timestamp": "2026-09-13T23:55:19.485Z"
+    },
+    {
+      "id": "log-mu0h1u84-29iu",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:19] [DELETE] Localizando botão Deletar no menu correto",
+      "timestamp": "2026-09-13T23:55:19.492Z"
+    },
+    {
+      "id": "log-mu0h1uc1-wbay",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:19] [DELETE] Botão Deletar encontrado",
+      "timestamp": "2026-09-13T23:55:19.633Z"
+    },
+    {
+      "id": "log-mu0h1ucq-wc7f",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:19] [DELETE] Clicando em Deletar",
+      "timestamp": "2026-09-13T23:55:19.658Z"
+    },
+    {
+      "id": "log-mu0h1uf4-43jr",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:19] [DELETE] Modal de confirmação localizado",
+      "timestamp": "2026-09-13T23:55:19.744Z"
+    },
+    {
+      "id": "log-mu0h1ufn-lf09",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:19] [DELETE] Botão Sim localizado no modal correto",
+      "timestamp": "2026-09-13T23:55:19.763Z"
+    },
+    {
+      "id": "log-mu0h1ufr-35om",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "INFO",
+      "message": "[20:55:19] [DELETE] Clicando em Sim",
+      "timestamp": "2026-09-13T23:55:19.767Z"
+    },
+    {
+      "id": "log-mu0h2jdi-nhbj",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "ERROR",
+      "message": "[20:55:52] [DELETE ERROR] Usuário: 461807391",
+      "timestamp": "2026-09-13T23:55:52.086Z"
+    },
+    {
+      "id": "log-mu0h2jdo-dobq",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "ERROR",
+      "message": "[20:55:52] [DELETE ERROR] Etapa: confirmação SweetAlert",
+      "timestamp": "2026-09-13T23:55:52.092Z"
+    },
+    {
+      "id": "log-mu0h2jdt-zzyu",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "ERROR",
+      "message": "[20:55:52] [DELETE ERROR] Motivo: locator.click: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - waiting for locator('.swal2-popup:visible').last().locator('button.swal2-confirm:visible, button.swal2-confirm').filter({ hasText: 'Sim' }).last()\u001b[22m\n",
+      "timestamp": "2026-09-13T23:55:52.097Z"
+    },
+    {
+      "id": "log-mu0h2jdy-ddo9",
+      "jobId": "job-mu0h12pf-yml0",
+      "level": "ERROR",
+      "message": "[DELETE ERROR] Falha no Job #f-yml0: locator.click: Target page, context or browser has been closed\nCall log:\n\u001b[2m  - waiting for locator('.swal2-popup:visible').last().locator('button.swal2-confirm:visible, button.swal2-confirm').filter({ hasText: 'Sim' }).last()\u001b[22m\n",
+      "timestamp": "2026-09-13T23:55:52.102Z"
+    },
+    {
+      "id": "log-mu0h2ysw-iceh",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Inicialização do servidor)...",
+      "timestamp": "2026-09-13T23:56:12.080Z"
+    },
+    {
+      "id": "log-mu0h32og-jevx",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 13 usuários verificados (0 novos, 13 atualizados).",
+      "timestamp": "2026-09-13T23:56:17.104Z"
+    },
+    {
+      "id": "log-mu0h3gni-c2ys",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[FILA] Nova tarefa #f-ffri: EXCLUSÃO de usuário IPTV 461807391 (GUILHERME NASCIMENTO - Teste Grátis (1h))",
+      "timestamp": "2026-09-13T23:56:35.214Z"
+    },
+    {
+      "id": "log-mu0h3gno-dsyh",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[FILA] Iniciando processamento do Job #f-ffri (Tentativa 1/3) - Usuário: 461807391",
+      "timestamp": "2026-09-13T23:56:35.220Z"
+    },
+    {
+      "id": "log-mu0h3gnu-yi02",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[DELETE] Iniciando exclusão de usuário IPTV 461807391 (Cliente: GUILHERME NASCIMENTO)",
+      "timestamp": "2026-09-13T23:56:35.226Z"
+    },
+    {
+      "id": "log-mu0h3gny-fzlb",
+      "level": "INFO",
+      "message": "[DELETE] Exclusão do ponto 'Teste Grátis (1h)' (461807391) enviada para o Playwright",
+      "timestamp": "2026-09-13T23:56:35.230Z"
+    },
+    {
+      "id": "log-mu0h3go3-0hi0",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:56:35] [DELETE] Solicitação recebida para exclusão de usuário",
+      "timestamp": "2026-09-13T23:56:35.235Z"
+    },
+    {
+      "id": "log-mu0h3go6-xykd",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:56:35] [DELETE] Processando usuário IPTV: 461807391",
+      "timestamp": "2026-09-13T23:56:35.238Z"
+    },
+    {
+      "id": "log-mu0h3gp3-46dx",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:56:35] [DELETE] Procurando linha exata do usuário: 461807391",
+      "timestamp": "2026-09-13T23:56:35.271Z"
+    },
+    {
+      "id": "log-mu0h47r9-rz3w",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:10] [DELETE] Linha encontrada para usuário: 461807391",
+      "timestamp": "2026-09-13T23:57:10.342Z"
+    },
+    {
+      "id": "log-mu0h47rf-qceh",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:10] [DELETE] Nome/nota: Teste - GUILHERME NASCIMENTO (#d5-c3o)",
+      "timestamp": "2026-09-13T23:57:10.347Z"
+    },
+    {
+      "id": "log-mu0h47rs-2qkh",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:10] [DELETE] Localizando menu ... dentro da linha correta",
+      "timestamp": "2026-09-13T23:57:10.360Z"
+    },
+    {
+      "id": "log-mu0h4857-yc43",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:10] [DELETE] Menu de ações aberto para 461807391",
+      "timestamp": "2026-09-13T23:57:10.843Z"
+    },
+    {
+      "id": "log-mu0h485d-7xku",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:10] [DELETE] Localizando botão Deletar no menu correto",
+      "timestamp": "2026-09-13T23:57:10.849Z"
+    },
+    {
+      "id": "log-mu0h48a9-3zti",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:11] [DELETE] Botão Deletar encontrado",
+      "timestamp": "2026-09-13T23:57:11.025Z"
+    },
+    {
+      "id": "log-mu0h48ap-28w6",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:11] [DELETE] Clicando em Deletar",
+      "timestamp": "2026-09-13T23:57:11.041Z"
+    },
+    {
+      "id": "log-mu0h48co-4z8x",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:11] [DELETE] Modal de confirmação localizado",
+      "timestamp": "2026-09-13T23:57:11.112Z"
+    },
+    {
+      "id": "log-mu0h48d8-j995",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:11] [DELETE] Botão Sim localizado no modal correto",
+      "timestamp": "2026-09-13T23:57:11.132Z"
+    },
+    {
+      "id": "log-mu0h48dc-1r09",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:11] [DELETE] Clicando em Sim",
+      "timestamp": "2026-09-13T23:57:11.136Z"
+    },
+    {
+      "id": "log-mu0h48p1-5od0",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:11] [DELETE] Aguardando fechamento do modal",
+      "timestamp": "2026-09-13T23:57:11.557Z"
+    },
+    {
+      "id": "log-mu0h4aez-2ccd",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:13] [DELETE] Verificando se usuário ainda existe no painel",
+      "timestamp": "2026-09-13T23:57:13.787Z"
+    },
+    {
+      "id": "log-mu0h4afu-wllr",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "SUCCESS",
+      "message": "[20:57:13] [DELETE] Usuário 461807391 removido do painel IPTV com sucesso",
+      "timestamp": "2026-09-13T23:57:13.818Z"
+    },
+    {
+      "id": "log-mu0h4ag1-j1uy",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:13] [DELETE] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-13T23:57:13.825Z"
+    },
+    {
+      "id": "log-mu0h4ag7-j8tz",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:13] [IPTV] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-13T23:57:13.831Z"
+    },
+    {
+      "id": "log-mu0h4age-ku7q",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:13] [IPTV] page.reload() iniciado",
+      "timestamp": "2026-09-13T23:57:13.838Z"
+    },
+    {
+      "id": "log-mu0h4auy-ubzt",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:14] [IPTV] page.reload() concluído",
+      "timestamp": "2026-09-13T23:57:14.362Z"
+    },
+    {
+      "id": "log-mu0h4av2-0qwy",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:14] [IPTV] Aguardando renderização Vue",
+      "timestamp": "2026-09-13T23:57:14.366Z"
+    },
+    {
+      "id": "log-mu0h4cby-77e7",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:16] [IPTV] .iptv-username encontrado (12 usuários)",
+      "timestamp": "2026-09-13T23:57:16.270Z"
+    },
+    {
+      "id": "log-mu0h4d4a-ts4d",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:17] [IPTV] Iniciando sincronização automática",
+      "timestamp": "2026-09-13T23:57:17.290Z"
+    },
+    {
+      "id": "log-mu0h4ddf-6gmj",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:17] [IPTV] Usuários encontrados: 12",
+      "timestamp": "2026-09-13T23:57:17.619Z"
+    },
+    {
+      "id": "log-mu0h4dgj-svnu",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "INFO",
+      "message": "[20:57:17] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 12)",
+      "timestamp": "2026-09-13T23:57:17.731Z"
+    },
+    {
+      "id": "log-mu0h4dgm-t7f2",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "SUCCESS",
+      "message": "[20:57:17] [IPTV] Sincronização automática concluída",
+      "timestamp": "2026-09-13T23:57:17.734Z"
+    },
+    {
+      "id": "log-mu0h4dgq-6yg6",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "SUCCESS",
+      "message": "[20:57:17] [DELETE] Sincronização após exclusão finalizada",
+      "timestamp": "2026-09-13T23:57:17.738Z"
+    },
+    {
+      "id": "log-mu0h4dgt-cxgy",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "SUCCESS",
+      "message": "[20:57:17] [DELETE] Processo completo de exclusão concluído",
+      "timestamp": "2026-09-13T23:57:17.741Z"
+    },
+    {
+      "id": "log-mu0h4dh7-0jby",
+      "jobId": "job-mu0h3gnf-ffri",
+      "level": "SUCCESS",
+      "message": "[DELETE] Job #f-ffri: Usuário 461807391 excluído do painel IPTV com sucesso.",
+      "timestamp": "2026-09-13T23:57:17.755Z"
+    },
+    {
+      "id": "log-mu0h4m2e-1ec4",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "INFO",
+      "message": "[FILA] Nova tarefa #b-jaop: EXCLUSÃO de usuário IPTV 979157367 (GUILHERME NASCIMENTO - sala)",
+      "timestamp": "2026-09-13T23:57:28.886Z"
+    },
+    {
+      "id": "log-mu0h4m2l-rne7",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "INFO",
+      "message": "[FILA] Iniciando processamento do Job #b-jaop (Tentativa 1/3) - Usuário: 979157367",
+      "timestamp": "2026-09-13T23:57:28.893Z"
+    },
+    {
+      "id": "log-mu0h4m2q-igg4",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "INFO",
+      "message": "[DELETE] Iniciando exclusão de usuário IPTV 979157367 (Cliente: GUILHERME NASCIMENTO)",
+      "timestamp": "2026-09-13T23:57:28.898Z"
+    },
+    {
+      "id": "log-mu0h4m2u-dwny",
+      "level": "INFO",
+      "message": "[DELETE] Exclusão do ponto 'sala' (979157367) enviada para o Playwright",
+      "timestamp": "2026-09-13T23:57:28.902Z"
+    },
+    {
+      "id": "log-mu0h4m2y-dbp5",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "INFO",
+      "message": "[20:57:28] [DELETE] Solicitação recebida para exclusão de usuário",
+      "timestamp": "2026-09-13T23:57:28.906Z"
+    },
+    {
+      "id": "log-mu0h4m32-9xq4",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "INFO",
+      "message": "[20:57:28] [DELETE] Processando usuário IPTV: 979157367",
+      "timestamp": "2026-09-13T23:57:28.910Z"
+    },
+    {
+      "id": "log-mu0h4m3t-d87f",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "INFO",
+      "message": "[20:57:28] [DELETE] Procurando linha exata do usuário: 979157367",
+      "timestamp": "2026-09-13T23:57:28.937Z"
+    },
+    {
+      "id": "log-mu0h6qav-aqh1",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: GISELE ADAO",
+      "timestamp": "2026-09-13T23:59:07.687Z"
+    },
+    {
+      "id": "log-mu0h6xof-l8pv",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: ADAO",
+      "timestamp": "2026-09-13T23:59:17.247Z"
+    },
+    {
+      "id": "log-mu0h735b-lr5d",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: EVA ADAO",
+      "timestamp": "2026-09-13T23:59:24.335Z"
+    },
+    {
+      "id": "log-mu0h7d3y-zavw",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: Leandro Adão 1",
+      "timestamp": "2026-09-13T23:59:37.246Z"
+    },
+    {
+      "id": "log-mu0h7ksu-jr5g",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: MARCELO QUARTO",
+      "timestamp": "2026-09-13T23:59:47.214Z"
+    },
+    {
+      "id": "log-mu0h7m7f-km1u",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "WARN",
+      "message": "[20:59:49] [DELETE] Usuário '979157367' não localizado no painel IPTV (já removido ou inexistente).",
+      "timestamp": "2026-09-13T23:59:49.035Z"
+    },
+    {
+      "id": "log-mu0h7m83-t4qw",
+      "jobId": "job-mu0h4m2b-jaop",
+      "level": "SUCCESS",
+      "message": "[DELETE] Job #b-jaop: Usuário 979157367 excluído do painel IPTV com sucesso.",
+      "timestamp": "2026-09-13T23:59:49.059Z"
+    },
+    {
+      "id": "log-mu0h7tog-rqrt",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: MILENA",
+      "timestamp": "2026-09-13T23:59:58.720Z"
+    },
+    {
+      "id": "log-mu0h81ae-ojtb",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: Tio belo",
+      "timestamp": "2026-09-14T00:00:08.582Z"
+    },
+    {
+      "id": "log-mu0h8khb-tr7i",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: SOGRA",
+      "timestamp": "2026-09-14T00:00:33.455Z"
+    },
+    {
+      "id": "log-mu0h8uff-y6ch",
+      "level": "INFO",
+      "message": "[DELETE] Iniciando processo de exclusão para o cliente 'teste3' (1 ponto(s) IPTV vinculado(s))",
+      "timestamp": "2026-09-14T00:00:46.347Z"
+    },
+    {
+      "id": "log-mu0h8ufl-ttpu",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[FILA] Nova tarefa #i-fw1n: EXCLUSÃO de usuário IPTV 884172703 (teste3 - TV Principal)",
+      "timestamp": "2026-09-14T00:00:46.353Z"
+    },
+    {
+      "id": "log-mu0h8ufs-didw",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[FILA] Iniciando processamento do Job #i-fw1n (Tentativa 1/3) - Usuário: 884172703",
+      "timestamp": "2026-09-14T00:00:46.360Z"
+    },
+    {
+      "id": "log-mu0h8ug1-bqvl",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[DELETE] Iniciando exclusão de usuário IPTV 884172703 (Cliente: teste3)",
+      "timestamp": "2026-09-14T00:00:46.369Z"
+    },
+    {
+      "id": "log-mu0h8ug5-9bq1",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:00:46] [DELETE] Solicitação recebida para exclusão de usuário",
+      "timestamp": "2026-09-14T00:00:46.373Z"
+    },
+    {
+      "id": "log-mu0h8ug9-hqs2",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:00:46] [DELETE] Processando usuário IPTV: 884172703",
+      "timestamp": "2026-09-14T00:00:46.377Z"
+    },
+    {
+      "id": "log-mu0h8uh1-j7rq",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:00:46] [DELETE] Procurando linha exata do usuário: 884172703",
+      "timestamp": "2026-09-14T00:00:46.405Z"
+    },
+    {
+      "id": "log-mu0h9lj8-pmtt",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:21] [DELETE] Linha encontrada para usuário: 884172703",
+      "timestamp": "2026-09-14T00:01:21.476Z"
+    },
+    {
+      "id": "log-mu0h9ljc-5wgu",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:21] [DELETE] Nome/nota: teste3",
+      "timestamp": "2026-09-14T00:01:21.480Z"
+    },
+    {
+      "id": "log-mu0h9ljp-6aky",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:21] [DELETE] Localizando menu ... dentro da linha correta",
+      "timestamp": "2026-09-14T00:01:21.493Z"
+    },
+    {
+      "id": "log-mu0h9lw8-m1og",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:21] [DELETE] Menu de ações aberto para 884172703",
+      "timestamp": "2026-09-14T00:01:21.944Z"
+    },
+    {
+      "id": "log-mu0h9lwf-uclw",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:21] [DELETE] Localizando botão Deletar no menu correto",
+      "timestamp": "2026-09-14T00:01:21.951Z"
+    },
+    {
+      "id": "log-mu0h9m0e-qj0i",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:22] [DELETE] Botão Deletar encontrado",
+      "timestamp": "2026-09-14T00:01:22.094Z"
+    },
+    {
+      "id": "log-mu0h9m15-s3st",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:22] [DELETE] Clicando em Deletar",
+      "timestamp": "2026-09-14T00:01:22.121Z"
+    },
+    {
+      "id": "log-mu0h9m3e-p5u5",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:22] [DELETE] Modal de confirmação localizado",
+      "timestamp": "2026-09-14T00:01:22.202Z"
+    },
+    {
+      "id": "log-mu0h9m3s-ikpo",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:22] [DELETE] Botão Sim localizado no modal correto",
+      "timestamp": "2026-09-14T00:01:22.216Z"
+    },
+    {
+      "id": "log-mu0h9m3v-hdjy",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:22] [DELETE] Clicando em Sim",
+      "timestamp": "2026-09-14T00:01:22.219Z"
+    },
+    {
+      "id": "log-mu0h9mfc-r2fu",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:22] [DELETE] Aguardando fechamento do modal",
+      "timestamp": "2026-09-14T00:01:22.632Z"
+    },
+    {
+      "id": "log-mu0h9o5e-r2rf",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:24] [DELETE] Verificando se usuário ainda existe no painel",
+      "timestamp": "2026-09-14T00:01:24.866Z"
+    },
+    {
+      "id": "log-mu0h9o65-9y0z",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "SUCCESS",
+      "message": "[21:01:24] [DELETE] Usuário 884172703 removido do painel IPTV com sucesso",
+      "timestamp": "2026-09-14T00:01:24.893Z"
+    },
+    {
+      "id": "log-mu0h9o6c-bhpf",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:24] [DELETE] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-14T00:01:24.900Z"
+    },
+    {
+      "id": "log-mu0h9o6i-sufs",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:24] [IPTV] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-14T00:01:24.906Z"
+    },
+    {
+      "id": "log-mu0h9o6q-9a8m",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:24] [IPTV] page.reload() iniciado",
+      "timestamp": "2026-09-14T00:01:24.914Z"
+    },
+    {
+      "id": "log-mu0h9p1n-r5ah",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:26] [IPTV] page.reload() concluído",
+      "timestamp": "2026-09-14T00:01:26.027Z"
+    },
+    {
+      "id": "log-mu0h9p1s-0h54",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:26] [IPTV] Aguardando renderização Vue",
+      "timestamp": "2026-09-14T00:01:26.032Z"
+    },
+    {
+      "id": "log-mu0h9pwk-hy6f",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-14T00:01:27.140Z"
+    },
+    {
+      "id": "log-mu0h9rdg-on6y",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:29] [IPTV] .iptv-username encontrado (11 usuários)",
+      "timestamp": "2026-09-14T00:01:29.044Z"
+    },
+    {
+      "id": "log-mu0h9s5m-gjqy",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:30] [IPTV] Iniciando sincronização automática",
+      "timestamp": "2026-09-14T00:01:30.058Z"
+    },
+    {
+      "id": "log-mu0h9sdy-eshd",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:30] [IPTV] Usuários encontrados: 11",
+      "timestamp": "2026-09-14T00:01:30.358Z"
+    },
+    {
+      "id": "log-mu0h9sh1-z0q2",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "INFO",
+      "message": "[21:01:30] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 11)",
+      "timestamp": "2026-09-14T00:01:30.469Z"
+    },
+    {
+      "id": "log-mu0h9sh4-7n9t",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "SUCCESS",
+      "message": "[21:01:30] [IPTV] Sincronização automática concluída",
+      "timestamp": "2026-09-14T00:01:30.472Z"
+    },
+    {
+      "id": "log-mu0h9sh8-rxf3",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "SUCCESS",
+      "message": "[21:01:30] [DELETE] Sincronização após exclusão finalizada",
+      "timestamp": "2026-09-14T00:01:30.476Z"
+    },
+    {
+      "id": "log-mu0h9shb-u6l2",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "SUCCESS",
+      "message": "[21:01:30] [DELETE] Processo completo de exclusão concluído",
+      "timestamp": "2026-09-14T00:01:30.479Z"
+    },
+    {
+      "id": "log-mu0h9shl-bozz",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "SUCCESS",
+      "message": "[DELETE] ✅ Cliente teste3 e todos os seus acessos foram excluídos com sucesso do painel IPTV e do banco de dados local!",
+      "timestamp": "2026-09-14T00:01:30.489Z"
+    },
+    {
+      "id": "log-mu0h9shs-68bq",
+      "jobId": "job-mu0h8ufi-fw1n",
+      "level": "SUCCESS",
+      "message": "[DELETE] Job #i-fw1n: Usuário 884172703 excluído do painel IPTV com sucesso.",
+      "timestamp": "2026-09-14T00:01:30.496Z"
+    },
+    {
+      "id": "log-mu0h9tm5-hs2i",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-14T00:01:31.949Z"
+    },
+    {
+      "id": "log-mu0haf7f-uhsz",
+      "level": "INFO",
+      "message": "[DELETE] Iniciando processo de exclusão para o cliente 'teste2' (1 ponto(s) IPTV vinculado(s))",
+      "timestamp": "2026-09-14T00:01:59.931Z"
+    },
+    {
+      "id": "log-mu0haf7l-lr0m",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[FILA] Nova tarefa #j-g93e: EXCLUSÃO de usuário IPTV 564641985 (teste2 - TV Principal)",
+      "timestamp": "2026-09-14T00:01:59.937Z"
+    },
+    {
+      "id": "log-mu0haf7s-wknp",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[FILA] Iniciando processamento do Job #j-g93e (Tentativa 1/3) - Usuário: 564641985",
+      "timestamp": "2026-09-14T00:01:59.944Z"
+    },
+    {
+      "id": "log-mu0haf82-b084",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[DELETE] Iniciando exclusão de usuário IPTV 564641985 (Cliente: teste2)",
+      "timestamp": "2026-09-14T00:01:59.954Z"
+    },
+    {
+      "id": "log-mu0haf85-xol6",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:01:59] [DELETE] Solicitação recebida para exclusão de usuário",
+      "timestamp": "2026-09-14T00:01:59.957Z"
+    },
+    {
+      "id": "log-mu0haf8a-zyxi",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:01:59] [DELETE] Processando usuário IPTV: 564641985",
+      "timestamp": "2026-09-14T00:01:59.962Z"
+    },
+    {
+      "id": "log-mu0haf92-3enb",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:01:59] [DELETE] Procurando linha exata do usuário: 564641985",
+      "timestamp": "2026-09-14T00:01:59.990Z"
+    },
+    {
+      "id": "log-mu0hb6bh-trlq",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Linha encontrada para usuário: 564641985",
+      "timestamp": "2026-09-14T00:02:35.069Z"
+    },
+    {
+      "id": "log-mu0hb6bl-bjun",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Nome/nota: teste2",
+      "timestamp": "2026-09-14T00:02:35.073Z"
+    },
+    {
+      "id": "log-mu0hb6bx-80wy",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Localizando menu ... dentro da linha correta",
+      "timestamp": "2026-09-14T00:02:35.085Z"
+    },
+    {
+      "id": "log-mu0hb6p2-5kub",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Menu de ações aberto para 564641985",
+      "timestamp": "2026-09-14T00:02:35.558Z"
+    },
+    {
+      "id": "log-mu0hb6p9-xrzm",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Localizando botão Deletar no menu correto",
+      "timestamp": "2026-09-14T00:02:35.565Z"
+    },
+    {
+      "id": "log-mu0hb6tj-11qs",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Botão Deletar encontrado",
+      "timestamp": "2026-09-14T00:02:35.719Z"
+    },
+    {
+      "id": "log-mu0hb6u0-gu1s",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Clicando em Deletar",
+      "timestamp": "2026-09-14T00:02:35.736Z"
+    },
+    {
+      "id": "log-mu0hb6vp-knoz",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Modal de confirmação localizado",
+      "timestamp": "2026-09-14T00:02:35.797Z"
+    },
+    {
+      "id": "log-mu0hb6w7-mp8o",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Botão Sim localizado no modal correto",
+      "timestamp": "2026-09-14T00:02:35.815Z"
+    },
+    {
+      "id": "log-mu0hb6wc-849z",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:35] [DELETE] Clicando em Sim",
+      "timestamp": "2026-09-14T00:02:35.820Z"
+    },
+    {
+      "id": "log-mu0hb78f-1h07",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:36] [DELETE] Aguardando fechamento do modal",
+      "timestamp": "2026-09-14T00:02:36.255Z"
+    },
+    {
+      "id": "log-mu0hb8yc-tkbb",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:38] [DELETE] Verificando se usuário ainda existe no painel",
+      "timestamp": "2026-09-14T00:02:38.484Z"
+    },
+    {
+      "id": "log-mu0hb8yy-zo1b",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "SUCCESS",
+      "message": "[21:02:38] [DELETE] Usuário 564641985 removido do painel IPTV com sucesso",
+      "timestamp": "2026-09-14T00:02:38.506Z"
+    },
+    {
+      "id": "log-mu0hb8z4-3rl5",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:38] [DELETE] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-14T00:02:38.512Z"
+    },
+    {
+      "id": "log-mu0hb8zb-3bqo",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:38] [IPTV] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-14T00:02:38.519Z"
+    },
+    {
+      "id": "log-mu0hb8zf-71eb",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:38] [IPTV] page.reload() iniciado",
+      "timestamp": "2026-09-14T00:02:38.523Z"
+    },
+    {
+      "id": "log-mu0hb9em-1xlf",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:39] [IPTV] page.reload() concluído",
+      "timestamp": "2026-09-14T00:02:39.070Z"
+    },
+    {
+      "id": "log-mu0hb9eq-xzyz",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:39] [IPTV] Aguardando renderização Vue",
+      "timestamp": "2026-09-14T00:02:39.074Z"
+    },
+    {
+      "id": "log-mu0hbavb-unjl",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:40] [IPTV] .iptv-username encontrado (10 usuários)",
+      "timestamp": "2026-09-14T00:02:40.967Z"
+    },
+    {
+      "id": "log-mu0hbbnp-no6e",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:41] [IPTV] Iniciando sincronização automática",
+      "timestamp": "2026-09-14T00:02:41.989Z"
+    },
+    {
+      "id": "log-mu0hbbus-b2gx",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:42] [IPTV] Usuários encontrados: 10",
+      "timestamp": "2026-09-14T00:02:42.244Z"
+    },
+    {
+      "id": "log-mu0hbbxj-ez1d",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "INFO",
+      "message": "[21:02:42] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 10)",
+      "timestamp": "2026-09-14T00:02:42.343Z"
+    },
+    {
+      "id": "log-mu0hbbxm-mzhy",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "SUCCESS",
+      "message": "[21:02:42] [IPTV] Sincronização automática concluída",
+      "timestamp": "2026-09-14T00:02:42.346Z"
+    },
+    {
+      "id": "log-mu0hbbxp-0yfx",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "SUCCESS",
+      "message": "[21:02:42] [DELETE] Sincronização após exclusão finalizada",
+      "timestamp": "2026-09-14T00:02:42.349Z"
+    },
+    {
+      "id": "log-mu0hbbxs-3s67",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "SUCCESS",
+      "message": "[21:02:42] [DELETE] Processo completo de exclusão concluído",
+      "timestamp": "2026-09-14T00:02:42.352Z"
+    },
+    {
+      "id": "log-mu0hbby2-1u6t",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "SUCCESS",
+      "message": "[DELETE] ✅ Cliente teste2 e todos os seus acessos foram excluídos com sucesso do painel IPTV e do banco de dados local!",
+      "timestamp": "2026-09-14T00:02:42.362Z"
+    },
+    {
+      "id": "log-mu0hbby8-ethc",
+      "jobId": "job-mu0haf7j-g93e",
+      "level": "SUCCESS",
+      "message": "[DELETE] Job #j-g93e: Usuário 564641985 excluído do painel IPTV com sucesso.",
+      "timestamp": "2026-09-14T00:02:42.368Z"
+    },
+    {
+      "id": "log-mu0hc2o8-2ouh",
+      "level": "INFO",
+      "message": "[SYNC] Sincronização manual com o painel IPTV solicitada...",
+      "timestamp": "2026-09-14T00:03:17.000Z"
+    },
+    {
+      "id": "log-mu0hc2oc-9p9q",
+      "level": "INFO",
+      "message": "[21:03:17] [IPTV] Iniciando sincronização com o painel IPTV...",
+      "timestamp": "2026-09-14T00:03:17.004Z"
+    },
+    {
+      "id": "log-mu0hc2of-8hrt",
+      "level": "INFO",
+      "message": "[21:03:17] [IPTV] Aguardando renderização do Vue SPA (aguardando '.iptv-username' por até 30s)...",
+      "timestamp": "2026-09-14T00:03:17.007Z"
+    },
+    {
+      "id": "log-mu0hc3nn-08wk",
+      "level": "INFO",
+      "message": "[21:03:18] [IPTV] Usuários encontrados: 10",
+      "timestamp": "2026-09-14T00:03:18.275Z"
+    },
+    {
+      "id": "log-mu0hc3qk-t18c",
+      "level": "SUCCESS",
+      "message": "[21:03:18] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 10)",
+      "timestamp": "2026-09-14T00:03:18.380Z"
+    },
+    {
+      "id": "log-mu0hc3qq-f6pl",
+      "level": "SUCCESS",
+      "message": "[SYNC] Sincronização finalizada! Total: 10 | Novos: 0 | Atualizados: 10",
+      "timestamp": "2026-09-14T00:03:18.386Z"
+    },
+    {
+      "id": "log-mu0hiq1h-bzn7",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-14T00:08:27.221Z"
+    },
+    {
+      "id": "log-mu0hir5c-d3p3",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 10 usuários verificados (0 novos, 10 atualizados).",
+      "timestamp": "2026-09-14T00:08:28.656Z"
+    },
+    {
+      "id": "log-mu0hkugw-lxsq",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: LEANDRO 2 ADAO",
+      "timestamp": "2026-09-14T00:10:06.272Z"
+    },
+    {
+      "id": "log-mu1s0tvf-0x8s",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Inicialização do servidor)...",
+      "timestamp": "2026-09-14T21:50:14.331Z"
+    },
+    {
+      "id": "log-mu1s1ac8-vbdc",
+      "level": "INFO",
+      "message": "Configurações do sistema atualizadas.",
+      "timestamp": "2026-09-14T21:50:35.672Z"
+    },
+    {
+      "id": "log-mu1s1bgv-wqzg",
+      "level": "INFO",
+      "message": "Configurações do sistema atualizadas.",
+      "timestamp": "2026-09-14T21:50:37.135Z"
+    },
+    {
+      "id": "log-mu1s1pq6-nqk7",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (1 novos, 10 atualizados).",
+      "timestamp": "2026-09-14T21:50:55.614Z"
+    },
+    {
+      "id": "log-mu1s2wiy-pytq",
+      "level": "INFO",
+      "message": "[CLIENT LOGIN] Login realizado com sucesso por valtrudes (#cust-mu1s1ppg-2ad)",
+      "timestamp": "2026-09-14T21:51:51.082Z"
+    },
+    {
+      "id": "log-mu1s32mg-q3hy",
+      "level": "INFO",
+      "message": "[MERCADO PAGO] Pagamento PIX oficial gerado (MP ID: 178056612791) para valtrudes (Acesso: TV Principal - 312990021) - R$ 35.00. Ref: RENOVACAO_mu1s31cz_6d8b61fc",
+      "timestamp": "2026-09-14T21:51:58.984Z"
+    },
+    {
+      "id": "log-mu1s3z8f-mwxb",
+      "level": "SUCCESS",
+      "message": "[SISTEMA] ✅ Pagamento #y-tgs1 confirmado (R$ 35.00)! Acesso TV Principal (312990021) renovado até 14/10/2026 23:59:59 (+30 dias).",
+      "timestamp": "2026-09-14T21:52:41.247Z"
+    },
+    {
+      "id": "log-mu1s3z8m-flwm",
+      "level": "SUCCESS",
+      "message": "[MERCADO PAGO] ✅ Pagamento #y-tgs1 APROVADO! Valor: R$ 35.00 (valtrudes - TV Principal)",
+      "timestamp": "2026-09-14T21:52:41.254Z"
+    },
+    {
+      "id": "log-mu1s3z8v-35gt",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[FILA] Nova tarefa #s-3tpj enfileirada: Renovação para valtrudes (TV Principal - 312990021) - 30 dias",
+      "timestamp": "2026-09-14T21:52:41.263Z"
+    },
+    {
+      "id": "log-mu1s3z98-0mno",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[FILA] Iniciando processamento do Job #s-3tpj (Tentativa 1/3) - Usuário: 312990021",
+      "timestamp": "2026-09-14T21:52:41.276Z"
+    },
+    {
+      "id": "log-mu1s3z9i-5eui",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] Renovação iniciada",
+      "timestamp": "2026-09-14T21:52:41.286Z"
+    },
+    {
+      "id": "log-mu1s3z9l-9atm",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] Usuário localizado: 312990021",
+      "timestamp": "2026-09-14T21:52:41.289Z"
+    },
+    {
+      "id": "log-mu1s3z9o-5a0r",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] Dias solicitados: 30",
+      "timestamp": "2026-09-14T21:52:41.292Z"
+    },
+    {
+      "id": "log-mu1s3z9r-88qk",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] Total de ciclos (+30 dias) a executar: 1",
+      "timestamp": "2026-09-14T21:52:41.295Z"
+    },
+    {
+      "id": "log-mu1s3zb3-j1ww",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] [CICLO 1/1] Localizando linha do usuário '312990021'...",
+      "timestamp": "2026-09-14T21:52:41.343Z"
+    },
+    {
+      "id": "log-mu1s3zci-3tuk",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] [CICLO 1/1] Vencimento antes da renovação: 14/09/2026 17:55:35Vencido",
+      "timestamp": "2026-09-14T21:52:41.394Z"
+    },
+    {
+      "id": "log-mu1s3zcm-94ba",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] [CICLO 1/1] Buscando botão '+30' em .iptv-row-actions...",
+      "timestamp": "2026-09-14T21:52:41.398Z"
+    },
+    {
+      "id": "log-mu1s3zcz-b09f",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] [CICLO 1/1] Clicando no botão '+30'...",
+      "timestamp": "2026-09-14T21:52:41.411Z"
+    },
+    {
+      "id": "log-mu1s3zf6-lw9x",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] [CICLO 1/1] Aguardando modal de confirmação (SweetAlert2)...",
+      "timestamp": "2026-09-14T21:52:41.490Z"
+    },
+    {
+      "id": "log-mu1s3zif-wp3t",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] [CICLO 1/1] Confirmando ação no modal (clicando em Sim)...",
+      "timestamp": "2026-09-14T21:52:41.607Z"
+    },
+    {
+      "id": "log-mu1s3zqa-c4l9",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "SUCCESS",
+      "message": "[18:52:41] [IPTV] +30 confirmado",
+      "timestamp": "2026-09-14T21:52:41.890Z"
+    },
+    {
+      "id": "log-mu1s3zqh-acsd",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:41] [IPTV] [CICLO 1/1] Aguardando atualização dos dados no DOM...",
+      "timestamp": "2026-09-14T21:52:41.897Z"
+    },
+    {
+      "id": "log-mu1s41ps-w2w1",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:44] [IPTV] [CICLO 1/1] Nova data lida na tabela: ",
+      "timestamp": "2026-09-14T21:52:44.464Z"
+    },
+    {
+      "id": "log-mu1s41pv-ucp4",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "SUCCESS",
+      "message": "[18:52:44] [IPTV] [CICLO 1/1] ✅ Ciclo 1 concluído (+30 dias computados)!",
+      "timestamp": "2026-09-14T21:52:44.467Z"
+    },
+    {
+      "id": "log-mu1s41pz-r62q",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "SUCCESS",
+      "message": "[18:52:44] [IPTV] Renovação concluída",
+      "timestamp": "2026-09-14T21:52:44.471Z"
+    },
+    {
+      "id": "log-mu1s41q3-3bzq",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:44] [IPTV] Atualizando página do painel em segundo plano",
+      "timestamp": "2026-09-14T21:52:44.475Z"
+    },
+    {
+      "id": "log-mu1s41q6-1lzj",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:44] [IPTV] page.reload() iniciado",
+      "timestamp": "2026-09-14T21:52:44.478Z"
+    },
+    {
+      "id": "log-mu1s425x-n2q8",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:45] [IPTV] page.reload() concluído",
+      "timestamp": "2026-09-14T21:52:45.045Z"
+    },
+    {
+      "id": "log-mu1s4262-vv8o",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:45] [IPTV] Aguardando renderização Vue",
+      "timestamp": "2026-09-14T21:52:45.050Z"
+    },
+    {
+      "id": "log-mu1s43nt-kq3o",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:46] [IPTV] .iptv-username encontrado (11 usuários)",
+      "timestamp": "2026-09-14T21:52:46.985Z"
+    },
+    {
+      "id": "log-mu1s44g0-jvzp",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:48] [IPTV] Iniciando sincronização automática",
+      "timestamp": "2026-09-14T21:52:48.000Z"
+    },
+    {
+      "id": "log-mu1s44ok-yo8t",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:48] [IPTV] Usuários encontrados: 11",
+      "timestamp": "2026-09-14T21:52:48.308Z"
+    },
+    {
+      "id": "log-mu1s44s2-srdu",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:48] [IPTV] Banco local atualizado (Novos: 0, Atualizados: 11)",
+      "timestamp": "2026-09-14T21:52:48.434Z"
+    },
+    {
+      "id": "log-mu1s44s8-9itt",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "SUCCESS",
+      "message": "[18:52:48] [IPTV] Sincronização automática concluída",
+      "timestamp": "2026-09-14T21:52:48.440Z"
+    },
+    {
+      "id": "log-mu1s44sb-xqg6",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "INFO",
+      "message": "[18:52:48] [IPTV] Nova data registrada: 15/10/2026 18:52:24",
+      "timestamp": "2026-09-14T21:52:48.443Z"
+    },
+    {
+      "id": "log-mu1s44sf-w5x1",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "SUCCESS",
+      "message": "[18:52:48] [IPTV] Processo completo concluído",
+      "timestamp": "2026-09-14T21:52:48.447Z"
+    },
+    {
+      "id": "log-mu1s44t4-js37",
+      "jobId": "job-mu1s3z8s-3tpj",
+      "level": "SUCCESS",
+      "message": "[FILA] Job #s-3tpj CONCLUÍDO COM SUCESSO! Nova data registrada para 312990021: 15/10/2026 18:52:24",
+      "timestamp": "2026-09-14T21:52:48.472Z"
+    },
+    {
+      "id": "log-mu1s885m-iqqn",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-14T21:55:59.434Z"
+    },
+    {
+      "id": "log-mu1s8991-jfie",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-14T21:56:00.853Z"
+    },
+    {
+      "id": "log-mu5rfukk-mk8b",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Inicialização do servidor)...",
+      "timestamp": "2026-09-17T16:45:00.164Z"
+    },
+    {
+      "id": "log-mu5rg565-v14m",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T16:45:13.901Z"
+    },
+    {
+      "id": "log-mu5rgxuv-qx16",
+      "level": "INFO",
+      "message": "[13:45:51] [WHATSAPP] Abrindo WhatsApp Web em segundo plano...",
+      "timestamp": "2026-09-17T16:45:51.079Z"
+    },
+    {
+      "id": "log-mu5rgy3l-1wt9",
+      "level": "INFO",
+      "message": "[13:45:51] [WHATSAPP] Navegando para https://web.whatsapp.com",
+      "timestamp": "2026-09-17T16:45:51.393Z"
+    },
+    {
+      "id": "log-mu5rh097-utow",
+      "level": "SUCCESS",
+      "message": "[13:45:54] [WHATSAPP] WhatsApp Web aberto com sucesso em segundo plano!",
+      "timestamp": "2026-09-17T16:45:54.187Z"
+    },
+    {
+      "id": "log-mu5rmm7p-k7r2",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T16:50:15.927Z"
+    },
+    {
+      "id": "log-mu5rmpcm-mmhq",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T16:50:19.990Z"
+    },
+    {
+      "id": "log-mu5rtox1-0ggw",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T16:55:46.021Z"
+    },
+    {
+      "id": "log-mu5rttbd-8x1m",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T16:55:51.721Z"
+    },
+    {
+      "id": "log-mu5rv7ms-3brg",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: MILENA",
+      "timestamp": "2026-09-17T16:56:56.932Z"
+    },
+    {
+      "id": "log-mu5rvqt4-psm8",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: MARCELO QUARTO",
+      "timestamp": "2026-09-17T16:57:21.784Z"
+    },
+    {
+      "id": "log-mu5rw536-lhmi",
+      "level": "INFO",
+      "message": "Dados do cliente atualizados: valtrudes",
+      "timestamp": "2026-09-17T16:57:40.290Z"
+    },
+    {
+      "id": "log-mu5rx78o-0e8y",
+      "level": "INFO",
+      "message": "[CLIENT LOGIN] Login realizado com sucesso por MILENA (#cust-mthksnc3-tsp)",
+      "timestamp": "2026-09-17T16:58:29.736Z"
+    },
+    {
+      "id": "log-mu5s0rmb-ulfj",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:01:16.115Z"
+    },
+    {
+      "id": "log-mu5s0tul-us4z",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:01:19.005Z"
+    },
+    {
+      "id": "log-mu5s7rt2-8ms4",
+      "level": "INFO",
+      "message": "[CLIENT LOGIN] Login realizado com sucesso por MILENA (#cust-mthksnc3-tsp)",
+      "timestamp": "2026-09-17T17:06:42.950Z"
+    },
+    {
+      "id": "log-mu5s7uaq-hnt3",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:06:46.178Z"
+    },
+    {
+      "id": "log-mu5s7vpg-452j",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:06:48.004Z"
+    },
+    {
+      "id": "log-mu5sewz9-ejoz",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:12:16.245Z"
+    },
+    {
+      "id": "log-mu5sey7i-rfls",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:12:17.838Z"
+    },
+    {
+      "id": "log-mu5slznp-3cg3",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:17:46.309Z"
+    },
+    {
+      "id": "log-mu5sm111-c7b8",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:17:48.085Z"
+    },
+    {
+      "id": "log-mu5st2bx-uztg",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:23:16.365Z"
+    },
+    {
+      "id": "log-mu5st3nv-206n",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:23:18.091Z"
+    },
+    {
+      "id": "log-mu5t050a-icko",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:28:46.426Z"
+    },
+    {
+      "id": "log-mu5t06c0-mzm7",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:28:48.144Z"
+    },
+    {
+      "id": "log-mu5t77oe-9yv2",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:34:16.478Z"
+    },
+    {
+      "id": "log-mu5t7934-zjeq",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:34:18.304Z"
+    },
+    {
+      "id": "log-mu5teact-bl6x",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:39:46.541Z"
+    },
+    {
+      "id": "log-mu5tebpq-yq18",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:39:48.302Z"
+    },
+    {
+      "id": "log-mu5tld18-emp6",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:45:16.604Z"
+    },
+    {
+      "id": "log-mu5tle98-n0xo",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:45:18.188Z"
+    },
+    {
+      "id": "log-mu5tsfot-avl0",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:50:46.637Z"
+    },
+    {
+      "id": "log-mu5tsh15-nm8d",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:50:48.377Z"
+    },
+    {
+      "id": "log-mu5tzicv-ixs0",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T17:56:16.687Z"
+    },
+    {
+      "id": "log-mu5tzjmp-nmfr",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T17:56:18.337Z"
+    },
+    {
+      "id": "log-mu5u6l15-liuw",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:01:46.745Z"
+    },
+    {
+      "id": "log-mu5u6me6-locl",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:01:48.510Z"
+    },
+    {
+      "id": "log-mu5udnpo-vzzw",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:07:16.812Z"
+    },
+    {
+      "id": "log-mu5udp3h-t42x",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:07:18.605Z"
+    },
+    {
+      "id": "log-mu5ukqe2-7yov",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:12:46.874Z"
+    },
+    {
+      "id": "log-mu5ukrpq-nd0s",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:12:48.590Z"
+    },
+    {
+      "id": "log-mu5urt2o-dnsy",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:18:16.944Z"
+    },
+    {
+      "id": "log-mu5uruc9-hg7b",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:18:18.585Z"
+    },
+    {
+      "id": "log-mu5uyvr1-r083",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:23:47.005Z"
+    },
+    {
+      "id": "log-mu5uyx2h-o6c8",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:23:48.713Z"
+    },
+    {
+      "id": "log-mu5v5yfh-xuel",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:29:17.069Z"
+    },
+    {
+      "id": "log-mu5v5zq5-4ltc",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:29:18.749Z"
+    },
+    {
+      "id": "log-mu5vd13s-crb9",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:34:47.128Z"
+    },
+    {
+      "id": "log-mu5vd2gd-ei03",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:34:48.877Z"
+    },
+    {
+      "id": "log-mu5vk3rx-7d63",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:40:17.181Z"
+    },
+    {
+      "id": "log-mu5vk516-f8sz",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:40:18.810Z"
+    },
+    {
+      "id": "log-mu5vr6gp-gib3",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:45:47.257Z"
+    },
+    {
+      "id": "log-mu5vr7r5-0jyb",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:45:48.929Z"
+    },
+    {
+      "id": "log-mu5vy95i-tkl5",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:51:17.334Z"
+    },
+    {
+      "id": "log-mu5vyagl-h0xz",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:51:19.029Z"
+    },
+    {
+      "id": "log-mu5w5bu9-80pe",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T18:56:47.409Z"
+    },
+    {
+      "id": "log-mu5w5d5h-at1l",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T18:56:49.109Z"
+    },
+    {
+      "id": "log-mu5wceii-wocg",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:02:17.466Z"
+    },
+    {
+      "id": "log-mu5wcfw2-r22z",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:02:19.250Z"
+    },
+    {
+      "id": "log-mu5wjh65-9pso",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:07:47.501Z"
+    },
+    {
+      "id": "log-mu5wjihm-v0kg",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:07:49.210Z"
+    },
+    {
+      "id": "log-mu5wqjtx-wukf",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:13:17.541Z"
+    },
+    {
+      "id": "log-mu5wql41-y2be",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:13:19.201Z"
+    },
+    {
+      "id": "log-mu5wxmj7-69l5",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:18:47.635Z"
+    },
+    {
+      "id": "log-mu5wxnya-4cet",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:18:49.474Z"
+    },
+    {
+      "id": "log-mu5x4p7y-ffaf",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:24:17.710Z"
+    },
+    {
+      "id": "log-mu5x4qkr-kh9d",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:24:19.467Z"
+    },
+    {
+      "id": "log-mu5xbrwn-yway",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:29:47.783Z"
+    },
+    {
+      "id": "log-mu5xbt62-ui8u",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:29:49.418Z"
+    },
+    {
+      "id": "log-mu5xiunw-5onh",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:35:17.950Z"
+    },
+    {
+      "id": "log-mu5xix7e-kzoq",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:35:21.242Z"
+    },
+    {
+      "id": "log-mu5xpxej-x3g7",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:40:48.092Z"
+    },
+    {
+      "id": "log-mu5xpzrr-h412",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:40:51.159Z"
+    },
+    {
+      "id": "log-mu5xx05f-dv5f",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:46:18.257Z"
+    },
+    {
+      "id": "log-mu5xx4xp-5oow",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:46:24.445Z"
+    },
+    {
+      "id": "log-mu5y42y3-ou0h",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:51:48.460Z"
+    },
+    {
+      "id": "log-mu5y45ep-a1ot",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:51:51.649Z"
+    },
+    {
+      "id": "log-mu5yb699-q6bv",
+      "level": "INFO",
+      "message": "[AUTO-SYNC] Iniciando sincronização com o painel IPTV (Intervalo de 5 min)...",
+      "timestamp": "2026-09-17T19:57:19.352Z"
+    },
+    {
+      "id": "log-mu5ybod9-vky5",
+      "level": "SUCCESS",
+      "message": "[AUTO-SYNC] Painel IPTV sincronizado automaticamente: 11 usuários verificados (0 novos, 11 atualizados).",
+      "timestamp": "2026-09-17T19:57:42.813Z"
+    }
+  ],
+  "processedWebhookIds": [],
+  "config": {
+    "iptvPanelUrl": "https://searchdefense.top/#/users-iptv",
+    "iptvProfileDir": "./backend/data/iptv-browser-profile",
+    "mercadoPagoAccessToken": "APP_USR-4631389498969597-091417-07772d7f06e1b4ca7b67fe8f12f11c88-250553134",
+    "mercadoPagoPublicKey": "APP_USR-72c041e5-80cb-4f94-9d3a-dc35c8c3fa2b",
+    "mercadoPagoWebhookSecret": "mp_sec_live_9281738192837192837",
+    "whatsappTemplate": "Olá {{nome}}! Seu plano de TV vence em {{vencimento}} ({{dias}} dias restantes). Renove com desconto via PIX no seu portal: {{link}}",
+    "autoRenewalEnabled": true,
+    "renewalDaysBefore": 3,
+    "serverUrl": "http://localhost:80",
+    "autoSyncEnabled": true,
+    "autoSyncIntervalMinutes": 5,
+    "defaultServerHost": "http://anverif.top",
+    "defaultDnsHost": "http://blushes.top",
+    "shortenedHlsUrl": "https://tinyurl.com/2b952wvh",
+    "shortenedMpegtsUrl": "https://tinyurl.com/2yug8eoe",
+    "shortenedSsiptvUrl": "https://tinyurl.com/22z2a9bn",
+    "webPlayerUrl": "http://navegauni.top/",
+    "clientPortalUrl": "https://portaltop.net",
+    "primeIptvCode": "aiqohye8",
+    "funPlayCode": "asutk",
+    "downloaderPinPixel": "5413559",
+    "downloaderPinXciptv": "595381",
+    "ntdownPinXciptv": "84254",
+    "xciptvApkUrl": "https://5664.in/7gtyap4a",
+    "pixelPlayerUrl": "https://tinyurl.com/pixel-player-app-android",
+    "epgUrl": "https://tinyurl.com/uniepg",
+    "lastAutoSyncAt": "2026-09-17T19:57:42.804Z",
+    "lastAutoSyncResult": "Sucesso: 11 encontrados (0 novos, 11 atualizados)"
+  }
+}
